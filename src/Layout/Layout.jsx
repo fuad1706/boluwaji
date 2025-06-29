@@ -4,10 +4,19 @@ import Header from "../components/Header";
 import Footer from "../components/Footer";
 import Router from "../routes/Router";
 import Spinner from "../components/Spinner";
+import AOS from "aos";
+import "aos/dist/aos.css";
 
 const Layout = () => {
   const location = useLocation();
   const [isLoading, setIsLoading] = useState(false);
+
+  useEffect(() => {
+    AOS.init({
+      duration: 1000, // animation duration in ms
+      once: true, // whether animation should happen only once
+    });
+  }, []);
 
   useEffect(() => {
     setIsLoading(true);
