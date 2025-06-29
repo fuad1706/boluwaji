@@ -7,6 +7,7 @@ import VisualArt from "../pages/VisualArt";
 const Router = () => {
   return (
     <Routes>
+      <Route path="/" element={<About />} />
       <Route path="/about" element={<About />} />
       <Route path="/visual" element={<VisualArt />} />
       <Route path="/contact" element={<Contact />} />
