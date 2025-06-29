@@ -5,7 +5,7 @@ const About = () => {
   return (
     <div className="flex flex-col items-center justify-center">
       {/* Section 1 */}
-      <section className="w-full py-16 px-6 bg-gradient-to-r from-[#FFF1EB] to-[#ACE0F9]">
+      <section className="w-full py-14 px-6 bg-gradient-to-r from-[#FFF1EB] to-[#ACE0F9]">
         <div className="w-full max-w-5xl mx-auto flex flex-col md:flex-row gap-8 items-center md:items-start">
           <img
             src="/images/1.jpg"
@@ -14,11 +14,10 @@ const About = () => {
             data-aos="fade-right"
           />
           <p
-            className="text-gray-800 leading-relaxed text-base md:text-lg md:w-[40%]"
+            className="text-gray-800 leading-relaxed text-base md:text-lg md:w-[40%] md:mt-[270px]"
             data-aos="fade-left"
           >
-            <Quote color="#D4AF37" className="inline-block mr-2 mb-1" />I am a
-            multi-disciplinary creative professional, storyteller, visual
+            I am a multi-disciplinary creative professional, storyteller, visual
             artist, and creative strategist, driven by purpose, cultural impact,
             and the transformative power of narrative.
           </p>
@@ -35,7 +34,7 @@ const About = () => {
             data-aos="fade-left"
           />
           <p
-            className="text-gray-700 leading-relaxed text-base md:text-lg md:w-[40%]"
+            className="text-gray-700 leading-relaxed text-base md:text-lg md:w-[40%] md:mt-[50px]"
             data-aos="fade-right"
           >
             With over a decade of experience spanning media, creative direction,
@@ -57,7 +56,7 @@ const About = () => {
             data-aos="fade-right"
           />
           <p
-            className="leading-relaxed text-base md:text-lg md:w-[40%]"
+            className="leading-relaxed text-base md:text-lg md:w-[40%] md:mt-[270px]"
             data-aos="fade-left"
           >
             As a visual artist, my creative ethos is rooted in the belief that
@@ -65,13 +64,31 @@ const About = () => {
             time. My approach blends composition, light, and emotion to
             construct visual narratives that are both aesthetically compelling
             and deeply human.
-            <br />
-            <br />
-            This dedication to narrative integrity has earned recognition on
-            notable platforms, including being named Most Creative Photographer
-            at the 2024 ACE Awards in Scotland, and a nomination for Creative of
-            the Year at the 2025 Black Scottish Awards.
           </p>
+        </div>
+      </section>
+      {/* Section 4 */}
+      <section className="w-full py-16 px-6 bg-gradient-to-r from-[#FFF1EB] to-[#ACE0F9]">
+        <div className="w-full max-w-5xl mx-auto flex flex-col md:flex-row gap-8 items-center md:items-start">
+          <p
+            className="leading-relaxed text-base md:text-lg md:w-[40%] md:mt-[30px] "
+            data-aos="fade-right"
+          >
+            This dedication to narrative integrity has earned recognition on
+            notable platforms, including being named as Most Creative
+            Photographer at the 2024 ACE Awards in Scotland, and a nomination
+            for Creative of the Year at the 2025 Black Scottish Awards. These
+            accolades are not just affirmations of skill but of my enduring
+            commitment to creativity that is anchored in authenticity, cultural
+            relevance, and purpose-driven storytelling.
+          </p>
+
+          <img
+            src="/images/4.jpg"
+            alt="bolu4"
+            className="w-full md:w-[60%] rounded-xl shadow-lg object-cover"
+            data-aos="fade-right"
+          />
         </div>
       </section>
     </div>
