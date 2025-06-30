@@ -1,7 +1,7 @@
 import React from "react";
 import { Routes, Route, BrowserRouter } from "react-router-dom";
 import About from "../pages/About";
-import Contact from "../pages/Contact";
+import DigitalArt from "../pages/DigitalArt";
 import VisualArt from "../pages/VisualArt";
 
 const Router = () => {
@@ -9,8 +9,8 @@ const Router = () => {
     <Routes>
       <Route path="/" element={<About />} />
       <Route path="/about" element={<About />} />
-      <Route path="/visual" element={<VisualArt />} />
-      <Route path="/contact" element={<Contact />} />
+      <Route path="/visualart" element={<VisualArt />} />
+      <Route path="digitalart" element={<DigitalArt />} />
     </Routes>
   );
 };

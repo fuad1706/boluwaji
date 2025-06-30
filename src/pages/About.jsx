@@ -91,6 +91,26 @@ const About = () => {
           />
         </div>
       </section>
+      {/* Section 5 */}
+      <section className="w-full py-16 px-6 bg-[#F3F4F6]">
+        <div className="w-full max-w-5xl mx-auto flex flex-col md:flex-row gap-8 items-center md:items-start">
+          <img
+            src="/images/5.jpg"
+            alt="bolu5"
+            className="w-full md:w-[60%] rounded-xl shadow-lg object-cover"
+            data-aos="fade-left"
+          />
+          <p
+            className="leading-relaxed text-base md:text-lg md:w-[40%] md:mt-[30px] "
+            data-aos="fade-right"
+          >
+            As a creative director of Nakestudios, my commitment to creative
+            empowerment also finds expression through iCre8 Conference, a
+            visionary platform I founded to amplify emerging voices and
+            intergenerational dialogue within the creative economy.
+          </p>
+        </div>
+      </section>
     </div>
   );
 };
