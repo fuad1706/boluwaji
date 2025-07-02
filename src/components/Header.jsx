@@ -13,7 +13,6 @@ const Header = () => {
       document.body.classList.remove("overflow-hidden");
     }
 
-    // Clean up just in case
     return () => document.body.classList.remove("overflow-hidden");
   }, [isActive]);
 

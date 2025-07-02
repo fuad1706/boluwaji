@@ -111,6 +111,74 @@ const About = () => {
           </p>
         </div>
       </section>
+      {/* Section 6 */}
+      <section className="w-full py-16 px-6 bg-gradient-to-br from-[#000000] via-[#1a1a1a] to-[#333333] text-white">
+        <div className="w-full max-w-5xl mx-auto flex flex-col md:flex-row gap-8 items-center md:items-start">
+          <p
+            className="leading-relaxed text-base md:text-lg md:w-[40%] md:mt-[30px] "
+            data-aos="fade-right"
+          >
+            The inaugural 2024 edition in Nigeria explored the theme “Exploring
+            the Transformative Power of Creativity in Shaping the Future of
+            Industries,” drawing visionaries from communications, finance,
+            technology, visual media, and the arts. Through carefully curated
+            panels and storytelling moments, the conference underscores my
+            belief that when creativity is shared, it becomes a catalyst for
+            change, growth, and community transformation.
+          </p>
+          <img
+            src="/images/6.jpg"
+            alt="bolu6"
+            className="w-full md:w-[60%] rounded-xl shadow-lg object-cover"
+            data-aos="fade-right"
+          />
+        </div>
+      </section>
+      {/* Section 7 */}
+      <section className="w-full py-14 px-6 bg-gradient-to-r from-[#FFF1EB] to-[#ACE0F9]">
+        <div className="w-full max-w-5xl mx-auto flex flex-col md:flex-row gap-8 items-center md:items-start">
+          <img
+            src="images/7.jpg"
+            alt="bolu7"
+            className="w-full md:w-[60%] rounded-xl shadow-lg object-cover"
+            data-aos="fade-right"
+          />
+          <p
+            className="leading-relaxed text-base md:text-lg md:w-[40%] md:mt-[30px] "
+            data-aos="fade-right"
+          >
+            I am proud to engage with professional communities that elevate
+            excellence and representation, including memberships with the Royal
+            Photographic Society, The Creative Eye Group, and Black
+            Professionals UK. These affiliations not only refine my artistic
+            practice but also deepen my resolve to foster diversity, cultural
+            integrity, and lifelong learning in every space I enter.
+          </p>
+        </div>
+      </section>
+      {/* Section 8 */}
+      <section className="w-full py-16 px-6 bg-[#F3F4F6]">
+        <div className="w-full max-w-5xl mx-auto flex flex-col md:flex-row gap-8 items-center md:items-start">
+          <p
+            className="leading-relaxed text-base md:text-lg md:w-[40%] md:mt-[30px] "
+            data-aos="fade-right"
+          >
+            At the heart of my creative journey are values that transcend
+            mediums: excellence, authenticity, empathy, patience, and inclusive
+            impact. Whether I'm directing a visual narrative, curating a
+            multisensory exhibition, or developing content that transcends
+            borders, I lead with vision and intentionality. I am not just
+            telling stories, I am architecting experiences that inspire,
+            challenge, and elevate.
+          </p>
+          <img
+            src="/images/8.jpg"
+            alt="bolu8"
+            className="w-full aspect-[4/3] md:w-[60%] rounded-xl shadow-lg object-cover"
+            data-aos="fade-right"
+          />
+        </div>
+      </section>
     </div>
   );
 };
