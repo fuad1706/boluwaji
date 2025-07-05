@@ -22,8 +22,6 @@ const imageUrls = [
   "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714319/_Datara__nzk2mq.jpg",
   "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714331/Fragments_of_a_Burning_Alphabet_btzogg.jpg",
   "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714319/Soundscape_of_an_Aerial_Dream_hxnxdp.jpg",
-  "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714316/_Alice__The_princess_of_the_west_tavscn.jpg",
-  "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714316/The_beginning_of_Life_bimlet.jpg",
   "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714309/_Crimson_Reverie__vleytf.jpg",
   "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714215/Syntax_of_Her_Silence_bsq4n7.jpg",
   "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714189/Floating_Colossus_XYZ_hoa8wk.jpg",
@@ -37,6 +35,8 @@ const imageUrls = [
   "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714178/Floating_Colossus_XXX_s0zwmn.jpg",
   "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714174/Alice_the_Princess_of_the_West_XYZ_krpnvb.jpg",
   "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714171/_Velora_Lilt__lk8f8p.jpg",
+  "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714316/_Alice__The_princess_of_the_west_tavscn.jpg",
+  "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714316/The_beginning_of_Life_bimlet.jpg",
 ];
 
 const VisualArt = () => {
