@@ -93,8 +93,16 @@ const Footer = () => {
           </p>
           <div className="flex items-center gap-4 text-xs text-gray-700">
             <span>Crafted with passion</span>
-            <span className="text-red-600">♥</span>
-            <span>afcreativehubs</span>
+            <span className="text-red-600 ">♥</span>
+            <span>
+              <a
+                href="https://www.tiktok.com/@heart__1706?_t=ZM-8xkBClnuywQ&_r=1"
+                target="_blank"
+                className="underline"
+              >
+                afcreativehubs
+              </a>
+            </span>
           </div>
         </div>
       </div>
