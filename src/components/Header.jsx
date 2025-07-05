@@ -72,11 +72,11 @@ const Header = () => {
             Visual Art
           </Link>
           <Link
-            to="/Digitalart"
+            to="/Lunaledger"
             className="relative no-underline after:content-[''] after:absolute after:w-0 after:h-0.5 after:bottom-0 after:left-0 after:bg-current after:transition-all after:duration-300 hover:after:w-full"
             onClick={() => setIsActive(false)}
           >
-            Digital Art
+            Luna Ledger
           </Link>
         </div>
       )}

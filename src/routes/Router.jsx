@@ -1,8 +1,8 @@
 import React from "react";
 import { Routes, Route, BrowserRouter } from "react-router-dom";
 import About from "../pages/About";
-import DigitalArt from "../pages/DigitalArt";
 import VisualArt from "../pages/VisualArt";
+import LunaLedger from "../pages/LunaLedger";
 
 const Router = () => {
   return (
@@ -10,7 +10,7 @@ const Router = () => {
       <Route path="/" element={<About />} />
       <Route path="/about" element={<About />} />
       <Route path="/visualart" element={<VisualArt />} />
-      <Route path="digitalart" element={<DigitalArt />} />
+      <Route path="lunaledger" element={<LunaLedger />} />
     </Routes>
   );
 };
