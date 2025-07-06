@@ -42,6 +42,32 @@ const Footer = () => {
                     enquiry.nakestudios@gmail.com
                   </span>
                 </a>
+                <a
+                  href="https://www.nakestudios.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex items-center gap-3 text-sm text-gray-800 hover:text-gray-900 transition-colors duration-200 group"
+                >
+                  <img
+                    src="/images/web.png"
+                    alt="web-icon"
+                    className="w-4 h-4 group-hover:scale-110 transition-transform duration-200"
+                  />
+                  <span className="hover:underline">nakestudios</span>
+                </a>
+                <a
+                  href="#"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex items-center gap-3 text-sm text-gray-800 hover:text-gray-900 transition-colors duration-200 group"
+                >
+                  <img
+                    src="/images/web.png"
+                    alt="web-icon"
+                    className="w-4 h-4 group-hover:scale-110 transition-transform duration-200"
+                  />
+                  <span className="hover:underline">boluwajiapanisile</span>
+                </a>
               </div>
             </div>
 
@@ -70,7 +96,7 @@ const Footer = () => {
                   <span className="hover:underline">@boluwajiapanisile</span>
                 </a>
                 <a
-                  href="#"
+                  href="https://www.instagram.com/nakestudios?igsh=ZzgwNjh0N3JyZzU3"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-3 text-sm text-gray-800 hover:text-gray-900 transition-colors duration-200 group"

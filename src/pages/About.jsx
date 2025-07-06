@@ -237,11 +237,11 @@ const About = () => {
 
       {/* Section 8 - Updated with Animated Gallery */}
       <section className="w-full py-16 px-6 bg-[#F3F4F6] overflow-hidden">
-        <div className="w-full max-w-5xl mx-auto">
+        <div className="w-full max-w-5xl mx-auto ">
           {/* Mobile: Gallery First, Text Second */}
-          <div className="block md:hidden">
+          <div className="block md:hidden ">
             {/* Mobile Gallery */}
-            <div className="relative h-80 mb-8">
+            <div className="relative h-80 mb-8 flex-col-reverse">
               <div className="relative w-full h-full rounded-xl overflow-hidden shadow-2xl">
                 {/* Main Preview Images */}
                 {[
