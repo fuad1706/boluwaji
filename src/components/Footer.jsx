@@ -118,7 +118,7 @@ const Footer = () => {
             © 2025 Boluwaji Apanisile. All rights reserved.
           </p>
           <div className="flex items-center gap-4 text-xs text-gray-700">
-            <span>Crafted with passion</span>
+            <span>Crafted with passion by</span>
             <span className="text-red-600 ">♥</span>
             <span>
               <a
