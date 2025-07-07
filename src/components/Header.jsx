@@ -1,6 +1,6 @@
 // import React from "react";
 // import { useState, useEffect } from "react";
-// import { Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 // import { AlignJustify, X } from "lucide-react";
 
 // const Header = () => {
@@ -98,24 +98,25 @@ const Header = () => {
           </a>
         </div>
         <div className="flex space-x-4 items-center">
-          <a
-            href="/About"
+          <Link
+            to="/About"
             className="relative no-underline after:content-[''] after:absolute after:w-0 after:h-0.5 after:bottom-0 after:left-0 after:bg-current after:transition-all after:duration-300 hover:after:w-full text-sm md:text-base"
           >
             About
-          </a>
-          <a
-            href="/Visualart"
+          </Link>
+
+          <Link
+            to="/Visualart"
             className="relative no-underline after:content-[''] after:absolute after:w-0 after:h-0.5 after:bottom-0 after:left-0 after:bg-current after:transition-all after:duration-300 hover:after:w-full text-sm md:text-base"
           >
             Visual Art
-          </a>
-          <a
-            href="/LunaLedger"
+          </Link>
+          <Link
+            to="/LunaLedger"
             className="relative no-underline after:content-[''] after:absolute after:w-0 after:h-0.5 after:bottom-0 after:left-0 after:bg-current after:transition-all after:duration-300 hover:after:w-full text-sm md:text-base"
           >
             Luna Ledger
-          </a>
+          </Link>
         </div>
       </div>
     </nav>
