@@ -3,7 +3,7 @@ import { Quote } from "lucide-react";
 
 const About = () => {
   return (
-    <div className="flex flex-col items-center justify-center">
+    <div className="flex pt-10 flex-col items-center justify-center md:pt-0">
       {/* Section 1 */}
       <section className="w-full py-14 px-6 bg-gradient-to-r from-[#FFF1EB] to-[#ACE0F9]">
         <div className="w-full max-w-5xl mx-auto flex flex-col md:flex-row gap-8 items-center md:items-start">
