@@ -181,21 +181,41 @@ const sectionsData = [
   },
 
   {
-    title: "Before the Vision",
+    title: "A Room Made of Her",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
     images: [
       {
-        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714189/Before_the_Vision_XYZ_jgc6cv.jpg",
-        title: "Before the Vision",
+        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714183/A_Room_Made_of_Her_AX_bbru5t.jpg",
+        title: "A room",
       },
       {
-        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714186/Before_the_Vision__XOX_exolt6.jpg",
-        title: "Before the Vision",
+        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714164/A_Room_Made_of_Her_AY_q3zhao.jpg",
+        title: "A room",
       },
+    ],
+  },
+
+  {
+    title: "Velora Lilt",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+    images: [
       {
-        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714185/Before_the_Vision_XXO_s7obqx.jpg",
-        title: "Before the Vision",
+        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714171/_Velora_Lilt__lk8f8p.jpg",
+        title: "velora",
+      },
+    ],
+  },
+
+  {
+    title: "Datara",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+    images: [
+      {
+        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714319/_Datara__nzk2mq.jpg",
+        title: "Datara",
       },
     ],
   },
