@@ -88,6 +88,117 @@ const sectionsData = [
       },
     ],
   },
+
+  {
+    title: "Oculon",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+    images: [
+      {
+        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714163/_Oculon__nciz90.jpg",
+        title: "Oculon",
+      },
+    ],
+  },
+
+  {
+    title: "The Stripe of Unit",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+    images: [
+      {
+        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714153/_Stripes_of_Unit__vnxie5.jpg",
+        title: "Stripe of Unit",
+      },
+    ],
+  },
+
+  {
+    title: "The Indigo Testament",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+    images: [
+      {
+        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714147/_The_Indigo_Testament__hihixz.jpg",
+        title: "Indigo",
+      },
+    ],
+  },
+
+  {
+    title: "Emerald Whisper",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+    images: [
+      {
+        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714145/_Emerald_Whispers__szxafx.jpg",
+        title: "Emerald",
+      },
+    ],
+  },
+  {
+    title: "Before the Vision",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+    images: [
+      {
+        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714189/Before_the_Vision_XYZ_jgc6cv.jpg",
+        title: "Before the Vision",
+      },
+      {
+        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714186/Before_the_Vision__XOX_exolt6.jpg",
+        title: "Before the Vision",
+      },
+      {
+        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714185/Before_the_Vision_XXO_s7obqx.jpg",
+        title: "Before the Vision",
+      },
+    ],
+  },
+
+  {
+    title: "Spectral Sojourn",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+    images: [
+      {
+        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714185/Spectral_Sojourn___oklnde.png",
+        title: "Sojourn",
+      },
+    ],
+  },
+
+  {
+    title: "Syntax of her Silence",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+    images: [
+      {
+        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714215/Syntax_of_Her_Silence_bsq4n7.jpg",
+        title: "Syntax",
+      },
+    ],
+  },
+
+  {
+    title: "Before the Vision",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+    images: [
+      {
+        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714189/Before_the_Vision_XYZ_jgc6cv.jpg",
+        title: "Before the Vision",
+      },
+      {
+        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714186/Before_the_Vision__XOX_exolt6.jpg",
+        title: "Before the Vision",
+      },
+      {
+        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714185/Before_the_Vision_XXO_s7obqx.jpg",
+        title: "Before the Vision",
+      },
+    ],
+  },
 ];
 
 // 2️⃣ REUSABLE COMPONENT
