@@ -78,7 +78,7 @@ const Footer = () => {
               </h4>
               <div className="space-y-2">
                 <a
-                  href="#"
+                  href="https://www.linkedin.com/in/boluwaji-apanisile-69922527?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-3 text-sm text-gray-800 hover:text-gray-900 transition-colors duration-200 group"
