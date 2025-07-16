@@ -87,7 +87,7 @@ const Footer = () => {
                   <span className="hover:underline">@boluwajiapanisile</span>
                 </a>
                 <a
-                  href="#"
+                  href="https://www.instagram.com/nakeexperience?igsh=MTV2NWI4MW53MDc0cQ=="
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-3 text-sm text-gray-800 hover:text-gray-900 transition-colors duration-200 group"
