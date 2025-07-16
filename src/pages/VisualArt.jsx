@@ -221,7 +221,6 @@ const sectionsData = [
   },
 ];
 
-// 2️⃣ REUSABLE COMPONENT
 const VisualArtSection = ({ section, index }) => {
   const [isOpen, setIsOpen] = useState(false);
   const [photoIndex, setPhotoIndex] = useState(0);
@@ -229,9 +228,9 @@ const VisualArtSection = ({ section, index }) => {
 
   return (
     <section className={`${bgClass}`}>
-      <div className="flex flex-col md:flex-row justify-center items-center gap-8 px-6 py-10 md:px-20">
+      <div className="flex flex-col md:flex-row justify-center items-center gap-8 px-6 py-14 md:px-20">
         {/* Image Slider */}
-        <div className="w-full md:w-1/2">
+        <div className="w-full md:w-1/3">
           <Swiper
             modules={[Navigation, Autoplay]}
             spaceBetween={10}
@@ -259,7 +258,7 @@ const VisualArtSection = ({ section, index }) => {
         </div>
 
         {/* Text */}
-        <div className="w-full md:w-1/2 text-center md:text-left">
+        <div className="w-full md:w-1/3 text-center md:text-left">
           <h3 className="text-2xl font-semibold mb-4">{section.title}</h3>
           <p className="text-gray-600 text-base leading-relaxed">
             {section.description}
