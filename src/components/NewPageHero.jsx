@@ -26,7 +26,7 @@ const NewPageHero = () => {
       ref={ref}
       className="relative h-screen w-full bg-cover bg-center bg-no-repeat bg-gray-900"
       style={{
-        backgroundImage: `url('/images/img9.jpg')`,
+        backgroundImage: `url('/images/9.jpg') `,
       }}
     >
       {/* Overlay via pseudo-element */}

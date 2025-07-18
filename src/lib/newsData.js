@@ -8,7 +8,8 @@ export const newsData = [
       "Visual storyteller, Boluwaji Apanisile has been honored with the Most Creative Photographer award at the recently concluded ACE Awards in the UK.",
     date: "15 Dec, 2024",
     author: "Ihesiulo Grace",
-    image: "/images/news2Img.jpg",
+    image:
+      "https://res.cloudinary.com/dlzna5jba/image/upload/v1747050579/news/1747050576692-news2Img.jpg",
     content: `
       The creative industry in Nigeria continues to evolve, with talented individuals like Boluwaji Apanisile leading the charge through innovation and exceptional storytelling techniques.
       
@@ -29,7 +30,8 @@ export const newsData = [
       "Boluwaji Apanisile is a visionary creative entrepreneur passionate about storytelling through visual media.",
     date: "14 Sep, 2024",
     author: "Tosin Clegg",
-    image: "/images/b.png",
+    image:
+      "https://res.cloudinary.com/dlzna5jba/image/upload/v1747049471/news/1747049467592-b.png",
     content: `
       Visual storyteller and creative entrepreneur Boluwaji Apanisile is pioneering new approaches to multimedia narrative in Nigeria's evolving creative landscape.
       
@@ -49,7 +51,8 @@ export const newsData = [
       "NAKESTUDIOS held its inaugural iCre8 conference, recently, with the theme: “Exploring the transformative power of creativity in shaping the future of industries.”",
     date: "31 Aug, 2024",
     author: "Sunday Aikulola",
-    image: "/images/news1img.jpg",
+    image:
+      "https://res.cloudinary.com/dlzna5jba/image/upload/v1747222430/news/1747222413347-news1img.jpg",
     content: `
       The inaugural iCre8 conference by NAKESTUDIOS has successfully concluded, bringing together creative professionals, industry leaders, and policymakers to discuss the future of Nigeria's creative sector.
       
@@ -72,7 +75,8 @@ export const newsData = [
       "Nakestudios has just held its inaugural iCre8 conference themed, Exploring the transformative power of creativity in shaping the future of industries.",
     date: "26 Aug, 2024",
     author: "DailyTimesNGR",
-    image: "/images/news3img.jpg",
+    image:
+      "https://res.cloudinary.com/dlzna5jba/image/upload/v1747486884/news/1747486884553-news3img.jpg",
     content: `
       Leading voices from across Nigeria's creative landscape gathered last week for the inaugural iCre8 conference, organized by Nakestudios to address the evolving role of creativity in business and society.
       
@@ -95,7 +99,8 @@ export const newsData = [
       "The Nigeria creative sector is not only an add-on to the nation's economic structure, but rather a vibrant and essential element that has a significant impact...",
     date: "05 Aug, 2024",
     author: "THISDAY",
-    image: "/images/news4img.jpeg",
+    image:
+      "https://res.cloudinary.com/dlzna5jba/image/upload/v1747487395/news/1747487395615-news4img.jpg",
     content: `
       The upcoming iCre8 Conference, scheduled for later this month, is set to address both the enormous potential and significant challenges facing Nigeria's creative sector.
       
@@ -118,7 +123,8 @@ export const newsData = [
       "Boluwaji Apanisile, the visionary founder of iCre8 by Nakestudios and creative director at Nakestudios opines that there are still major financial and infrastructural barriers preventing...",
     date: "11 Aug, 2024",
     author: " Ayo Onikoyi",
-    image: "/images/news5img.jpg",
+    image:
+      "https://res.cloudinary.com/dlzna5jba/image/upload/v1747510597/news/1747510596940-news5img.jpg",
     content: `
       NAKESTUDiOS has announced plans to host the first-ever iCre8 conference, designed to address challenges and opportunities in Nigeria's rapidly growing creative sector.
       
