@@ -24,7 +24,7 @@ const Footer = () => {
                 Contact
               </h4>
               <div className="space-y-2">
-                <a
+                {/* <a
                   href="mailto:info@boluwajiapanisile.com"
                   className="flex items-center gap-3 text-sm text-gray-800 hover:text-gray-900 transition-colors duration-200 group"
                 >
@@ -32,7 +32,7 @@ const Footer = () => {
                   <span className="hover:underline">
                     info@boluwajiapanisile.com
                   </span>
-                </a>
+                </a> */}
                 <a
                   href="mailto:enquiry.nakestudios@gmail.com"
                   className="flex items-center gap-3 text-sm text-gray-800 hover:text-gray-900 transition-colors duration-200 group"
@@ -115,7 +115,7 @@ const Footer = () => {
         {/* Copyright Section */}
         <div className="flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-sm text-gray-800 font-medium tracking-wide">
-            © 2025 Boluwaji Apanisile. All rights reserved.
+            © Boluwaji Apanisile. All rights reserved.
           </p>
           <div className="flex items-center gap-4 text-xs text-gray-700">
             <span>Crafted with passion by</span>

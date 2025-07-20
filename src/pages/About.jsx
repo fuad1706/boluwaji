@@ -150,7 +150,7 @@ const About = () => {
                 {" "}
                 iCre8 Conference
               </span>
-              —a visionary platform I founded to amplify emerging voices and
+              , a visionary platform I founded to amplify emerging voices and
               foster intergenerational dialogue within the creative economy.
             </p>
           </div>
@@ -219,6 +219,7 @@ const About = () => {
                 "Royal Photographic Society",
                 "The Creative Eye Group",
                 "Black Professionals UK",
+                "Walsall Society of Artists",
               ].map((org, index) => (
                 <div key={index} className="flex items-center gap-3">
                   <div className="w-1.5 h-1.5 bg-blue-500 rounded-full"></div>
@@ -341,7 +342,7 @@ const About = () => {
                   lead with vision and intentionality.
                   <span className="font-semibold text-gray-800">
                     {" "}
-                    I am not just telling stories—I am architecting experiences
+                    I am not just telling stories, I am architecting experiences
                     that inspire, challenge, and elevate.
                   </span>
                 </p>
@@ -384,7 +385,7 @@ const About = () => {
                   lead with vision and intentionality.
                   <span className="font-semibold text-gray-800">
                     {" "}
-                    I am not just telling stories—I am architecting experiences
+                    I am not just telling stories, I am architecting experiences
                     that inspire, challenge, and elevate.
                   </span>
                 </p>
