@@ -76,6 +76,10 @@ const sectionsData = [
         title: "Alice the Princess of the West XYZ",
       },
       {
+        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714316/_Alice__The_princess_of_the_west_tavscn.jpg",
+        title: "Alice the Princess of the West",
+      },
+      {
         src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714171/Alice_the_Princess_of_the_West_XXO_sbfndn.jpg",
         title: "Alice the Princess of the West XXO",
       },
@@ -322,6 +326,17 @@ const sectionsData = [
       {
         src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714331/Fragments_of_a_Burning_Alphabet_btzogg.jpg",
         title: "Fragments of a Burning Alphabet",
+      },
+    ],
+  },
+  {
+    title: "Sister Dora 2000",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+    images: [
+      {
+        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1753042574/Sister_Dora_2000_bjwipe.jpg",
+        title: "Sister Dora 2000",
       },
     ],
   },
