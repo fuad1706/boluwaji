@@ -105,8 +105,8 @@ const NewsArchives = () => {
   return (
     <div className="container mx-auto px-4 py-16 lg:px-20 md:px-10">
       {/* Header with back button */}
-      <div className="flex flex-col md:flex-row md:items-center justify-between mb-8">
-        <div>
+      <div className="flex flex-col  md:flex-row md:items-center justify-between mb-8">
+        <div className="">
           <button
             onClick={() => navigate("/news")}
             className="flex items-center mb-4 md:mb-0 text-gray-600 hover:text-yellow-500 transition-colors"

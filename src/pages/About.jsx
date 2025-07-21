@@ -90,7 +90,7 @@ const About = () => {
               Recognition & Awards
             </h3>
             <p className="leading-8 text-lg md:text-xl font-light tracking-wide text-gray-700 mb-4">
-              This dedication to narrative integrity has earned recognition on
+              This-dedication to narrative integrity has earned recognition on
               notable platforms, including:
             </p>
             <div className="space-y-3">
@@ -236,47 +236,45 @@ const About = () => {
         </div>
       </section>
 
-      {/* Section 8 - Updated with Animated Gallery */}
+      {/* Section 8 - Updated Gallery */}
       <section className="w-full py-16 px-6 bg-[#F3F4F6] overflow-hidden">
-        <div className="w-full max-w-5xl mx-auto ">
+        <div className="w-full max-w-5xl mx-auto">
           {/* Mobile: Gallery First, Text Second */}
-          <div className="block md:hidden ">
+          <div className="block md:hidden">
             {/* Mobile Gallery */}
-            <div className="relative h-80 mb-8 flex-col-reverse">
-              <div className="relative w-full h-full rounded-xl overflow-hidden shadow-2xl">
+            <div className="relative h-80 mb-8">
+              <div className="relative w-full h-full rounded-xl overflow-hidden shadow-2xl contain-paint">
                 {/* Main Preview Images */}
                 {[
                   "/images/2.jpg",
                   "/images/4.jpg",
                   "/images/6.jpg",
                   "/images/8.jpg",
-                  "/images/9.jpg",
-                  "/images/5.jpg",
-                  "/images/3.jpg",
-                  "/images/7.jpg",
                 ].map((src, index) => (
                   <div
                     key={index}
-                    className="absolute inset-0 w-full h-full transition-all duration-1000 ease-in-out"
+                    className="absolute inset-0 w-full h-full transition-opacity duration-1000 ease-in-out"
                     style={{
-                      opacity: 1,
-                      animation: `slideShow 16s infinite`,
+                      opacity: 0,
+                      animation: `slideShowMobile 8s infinite`,
                       animationDelay: `${index * 2}s`,
                       zIndex: 8 - index,
+                      willChange: "opacity",
                     }}
                   >
                     <img
                       src={src}
                       alt={`Gallery ${index + 1}`}
                       className="w-full h-full object-cover"
+                      loading="lazy"
                     />
-                    <div className="absolute inset-0 bg-gradient-to-br from-black/10 to-transparent"></div>
+                    <div className="absolute inset-0 bg-black/10"></div>
                   </div>
                 ))}
 
                 {/* Mobile Overlay Content */}
                 <div className="absolute bottom-4 left-4 right-4 z-20">
-                  <div className="bg-white/90 backdrop-blur-sm rounded-lg p-3 shadow-lg">
+                  <div className="bg-white/80 rounded-lg p-3 shadow-lg">
                     <h4 className="text-base font-semibold text-gray-800 mb-1">
                       Creative Portfolio Gallery
                     </h4>
@@ -289,7 +287,7 @@ const About = () => {
                 {/* Mobile Progress Indicators */}
                 <div className="absolute top-4 left-4 z-20">
                   <div className="flex gap-1.5">
-                    {Array.from({ length: 8 }).map((_, index) => (
+                    {Array.from({ length: 4 }).map((_, index) => (
                       <div
                         key={index}
                         className="w-1.5 h-1.5 rounded-full bg-white/50 relative overflow-hidden"
@@ -297,7 +295,7 @@ const About = () => {
                         <div
                           className="absolute inset-0 bg-white rounded-full"
                           style={{
-                            animation: `progressBar 16s infinite`,
+                            animation: `progressBarMobile 8s infinite`,
                             animationDelay: `${index * 2}s`,
                           }}
                         />
@@ -394,7 +392,7 @@ const About = () => {
 
             {/* Desktop Gallery */}
             <div className="w-[60%] relative h-[500px]">
-              <div className="relative w-full h-full rounded-xl overflow-hidden shadow-2xl">
+              <div className="relative w-full h-full rounded-xl overflow-hidden shadow-2xl contain-paint">
                 {/* Main Preview Images */}
                 {[
                   "/images/2.jpg",
@@ -408,18 +406,20 @@ const About = () => {
                 ].map((src, index) => (
                   <div
                     key={index}
-                    className="absolute inset-0 w-full h-full transition-all duration-1000 ease-in-out"
+                    className="absolute inset-0 w-full h-full transition-opacity duration-1000 ease-in-out"
                     style={{
-                      opacity: 1,
-                      animation: `slideShow 16s infinite`,
+                      opacity: 0,
+                      animation: `slideShowDesktop 16s infinite`,
                       animationDelay: `${index * 2}s`,
                       zIndex: 8 - index,
+                      willChange: "opacity",
                     }}
                   >
                     <img
                       src={src}
                       alt={`Gallery ${index + 1}`}
                       className="w-full h-full object-cover"
+                      loading="lazy"
                     />
                     <div className="absolute inset-0 bg-gradient-to-br from-black/10 to-transparent"></div>
                   </div>
@@ -427,7 +427,7 @@ const About = () => {
 
                 {/* Desktop Overlay Content */}
                 <div className="absolute bottom-6 left-6 right-6 z-20">
-                  <div className="bg-white/90 backdrop-blur-sm rounded-lg p-4 shadow-lg">
+                  <div className="bg-white/80 rounded-lg p-4 shadow-lg">
                     <h4 className="text-lg font-semibold text-gray-800 mb-2">
                       Creative Portfolio Gallery
                     </h4>
@@ -448,7 +448,7 @@ const About = () => {
                         <div
                           className="absolute inset-0 bg-white rounded-full"
                           style={{
-                            animation: `progressBar 16s infinite`,
+                            animation: `progressBarDesktop 16s infinite`,
                             animationDelay: `${index * 2}s`,
                           }}
                         />
@@ -463,9 +463,37 @@ const About = () => {
 
         {/* CSS Animation Keyframes */}
         <style jsx>{`
-          @keyframes slideShow {
+          .contain-paint {
+            contain: paint;
+          }
+
+          @media (prefers-reduced-motion: reduce) {
+            .transition-opacity {
+              animation: none !important;
+            }
+          }
+
+          @keyframes slideShowMobile {
             0% {
+              opacity: 0;
+            }
+            10% {
               opacity: 1;
+            }
+            25% {
+              opacity: 1;
+            }
+            35% {
+              opacity: 0;
+            }
+            100% {
+              opacity: 0;
+            }
+          }
+
+          @keyframes slideShowDesktop {
+            0% {
+              opacity: 0;
               transform: scale(1);
             }
             10% {
@@ -481,12 +509,27 @@ const About = () => {
               transform: scale(0.95);
             }
             100% {
-              opacity: 1;
+              opacity: 0;
               transform: scale(1);
             }
           }
 
-          @keyframes progressBar {
+          @keyframes progressBarMobile {
+            0% {
+              width: 0%;
+            }
+            25% {
+              width: 100%;
+            }
+            35% {
+              width: 100%;
+            }
+            100% {
+              width: 0%;
+            }
+          }
+
+          @keyframes progressBarDesktop {
             0% {
               width: 0%;
             }
