@@ -7,7 +7,16 @@ import NewsSidebar from "../components/NewsSidebar";
 // ✅ ShareButton component
 const ShareButton = ({ id }) => {
   const handleCopy = () => {
-    const link = `https://yourdomain.com/news/${id}`; // Replace with your real domain
+    const links = {
+      1: `https://dailytimesng.com/boluwaji-apanisile-wins-most-creative-photographer-at-ace-awards-plans-big-for-2025/${id}`,
+      2: `https://www.thisdaylive.com/index.php/2024/09/14/boluwaji-apanisile-redefining-nigerias-creative-industry-through-innovation-storytelling/?amp${id}`,
+      3: `https://guardian.ng/technology/icre8-conference-unveils-viable-future-for-creative-industries/${id}`,
+      4: `https://dailytimesng.com/experts-converge-at-the-inaugural-icre8-conference-discussing-the-future-of-creativity/${id}`,
+      5: `https://www.thisdaylive.com/index.php/2024/08/05/icre8-conference-to-discuss-the-opportunities-and-challenges-in-nigerias-creative-sector/${id}`,
+      6: `https://www.vanguardngr.com/2024/08/nakestudios-to-host-icre8-conference-fostering-innovation-in-nigerias-creative-industry/${id}`,
+    };
+
+    const link = links[id];
     navigator.clipboard
       .writeText(link)
       .then(() => {

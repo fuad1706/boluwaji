@@ -21,6 +21,7 @@ export const newsData = [
       
       As the industry continues to evolve, many are watching to see how these creative innovations will shape the future of visual storytelling not just in Nigeria, but across the African continent and beyond.
     `,
+    link: "https://www.vanguardngr.com/2024/08/nakestudios-to-host-icre8-conference-fostering-innovation-in-nigerias-creative-industry/",
   },
   {
     id: 2,
