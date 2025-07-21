@@ -3,7 +3,7 @@ import { Quote } from "lucide-react";
 
 const About = () => {
   return (
-    <div className="flex pt-10 flex-col items-center justify-center md:pt-0">
+    <div className="flex pt-10 flex-col items-center justify-center md:pt-0 overflow-x-hidden">
       {/* Section 1 */}
       <section className="w-full py-14 px-6 bg-gradient-to-r from-[#FFF1EB] to-[#ACE0F9]">
         <div className="w-full max-w-5xl mx-auto flex flex-col md:flex-row gap-8 items-center md:items-start">
@@ -90,7 +90,7 @@ const About = () => {
               Recognition & Awards
             </h3>
             <p className="leading-8 text-lg md:text-xl font-light tracking-wide text-gray-700 mb-4">
-              This-dedication to narrative integrity has earned recognition on
+              This dedication to narrative integrity has earned recognition on
               notable platforms, including:
             </p>
             <div className="space-y-3">
@@ -237,12 +237,12 @@ const About = () => {
       </section>
 
       {/* Section 8 - Updated Gallery */}
-      <section className="w-full py-16 px-6 bg-[#F3F4F6] overflow-hidden">
+      <section className="w-full py-16 px-4 md:px-6 bg-[#F3F4F6] overflow-x-hidden">
         <div className="w-full max-w-5xl mx-auto">
           {/* Mobile: Gallery First, Text Second */}
           <div className="block md:hidden">
             {/* Mobile Gallery */}
-            <div className="relative h-80 mb-8">
+            <div className="relative h-80 mb-8 w-screen -ml-4">
               <div className="relative w-full h-full rounded-xl overflow-hidden shadow-2xl contain-paint">
                 {/* Main Preview Images */}
                 {[
@@ -307,7 +307,7 @@ const About = () => {
             </div>
 
             {/* Mobile Text Content */}
-            <div data-aos="fade-up">
+            <div className="px-4" data-aos="fade-up">
               <h3 className="text-2xl font-semibold text-gray-800 mb-4 tracking-tight">
                 Core Values
               </h3>
