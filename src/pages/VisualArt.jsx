@@ -12,8 +12,8 @@ import "yet-another-react-lightbox/plugins/captions.css";
 const sectionsData = [
   {
     title: "Echoes of Dawn",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+    // description:
+    //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
     images: [
       {
         src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714148/_Echoes_of_Dawn__BNX_whqyfm.jpg",
@@ -27,8 +27,8 @@ const sectionsData = [
   },
   {
     title: "Emerald Whisper",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+    // description:
+    //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
     images: [
       {
         src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714145/_Emerald_Whispers__szxafx.jpg",
@@ -38,8 +38,8 @@ const sectionsData = [
   },
   {
     title: "Velora Lilt",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+    // description:
+    //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
     images: [
       {
         src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714171/_Velora_Lilt__lk8f8p.jpg",
@@ -53,8 +53,8 @@ const sectionsData = [
   },
   {
     title: "Spectral Sojourn",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+    // description:
+    //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
     images: [
       {
         src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714185/Spectral_Sojourn___oklnde.png",
@@ -64,8 +64,8 @@ const sectionsData = [
   },
   {
     title: "Alice the Princess of the West",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+    // description:
+    //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
     images: [
       {
         src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714181/Alice_the_Princess_of_the_West_XXX_nptdfr.jpg",
@@ -91,8 +91,8 @@ const sectionsData = [
   },
   {
     title: "The Indigo Testament",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+    // description:
+    //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
     images: [
       {
         src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714147/_The_Indigo_Testament__hihixz.jpg",
@@ -102,8 +102,8 @@ const sectionsData = [
   },
   {
     title: "The Spectrum of Silence",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+    // description:
+    //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
     images: [
       {
         src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714153/_The_Spectrum_of_Silence__AB_fngedu.jpg",
@@ -121,8 +121,8 @@ const sectionsData = [
   },
   {
     title: "A Room Made of Her",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+    // description:
+    //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
     images: [
       {
         src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714183/A_Room_Made_of_Her_AX_bbru5t.jpg",
@@ -136,8 +136,8 @@ const sectionsData = [
   },
   {
     title: "Oculon",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+    // description:
+    //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
     images: [
       {
         src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714163/_Oculon__nciz90.jpg",
@@ -147,8 +147,8 @@ const sectionsData = [
   },
   {
     title: "The Floating Colossus",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+    // description:
+    //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
     images: [
       {
         src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714189/Floating_Colossus_XYZ_hoa8wk.jpg",
@@ -166,8 +166,8 @@ const sectionsData = [
   },
   {
     title: "Tuareg Mbani",
-    description:
-      "An exploration of identity and resilience through cultural expression.",
+    // description:
+    //   "An exploration of identity and resilience through cultural expression.",
     images: [
       {
         src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714169/_Tuareg_Mbani__XYZ_op1i35.jpg",
@@ -186,8 +186,8 @@ const sectionsData = [
 
   {
     title: "St. Matthew's Through the Haze of Time",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+    // description:
+    //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
     images: [
       {
         src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1753042936/St._Matthew_s_Through_the_Haze_of_Time_yh1o8p.png",
@@ -198,8 +198,8 @@ const sectionsData = [
 
   {
     title: "Face of Flames",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+    // description:
+    //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
     images: [
       {
         src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1753042570/Face_of_flame_bub9hz.jpg",
@@ -210,8 +210,8 @@ const sectionsData = [
 
   {
     title: "Echoes of Arboretum Clock Tower",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+    // description:
+    //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
     images: [
       {
         src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1753042570/Echoes_of_Arboretum_Clock_Tower_osyqya.jpg",
@@ -221,8 +221,8 @@ const sectionsData = [
   },
   {
     title: "Soundscape of an Aerial Dream",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+    // description:
+    //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
     images: [
       {
         src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714319/Soundscape_of_an_Aerial_Dream_hxnxdp.jpg",
@@ -233,8 +233,8 @@ const sectionsData = [
 
   {
     title: "Syntax of her Silence",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+    // description:
+    //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
     images: [
       {
         src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714215/Syntax_of_Her_Silence_bsq4n7.jpg",
@@ -244,8 +244,8 @@ const sectionsData = [
   },
   {
     title: "Crimson Reverie",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+    // description:
+    //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
     images: [
       {
         src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714309/_Crimson_Reverie__vleytf.jpg",
@@ -255,8 +255,8 @@ const sectionsData = [
   },
   {
     title: "Toby Carvery Twilight",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+    // description:
+    //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
     images: [
       {
         src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1753042572/Toby_Carvery_Twilight_covhyh.jpg",
@@ -267,8 +267,8 @@ const sectionsData = [
 
   {
     title: "The Stripe of Unit",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+    // description:
+    //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
     images: [
       {
         src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714153/_Stripes_of_Unit__vnxie5.jpg",
@@ -278,8 +278,8 @@ const sectionsData = [
   },
   {
     title: "Kato",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+    // description:
+    //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
     images: [
       {
         src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1753044255/Kato_etgnrv.png",
@@ -289,8 +289,8 @@ const sectionsData = [
   },
   {
     title: "Before the Vision",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+    // description:
+    //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
     images: [
       {
         src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714189/Before_the_Vision_XYZ_jgc6cv.jpg",
@@ -309,8 +309,8 @@ const sectionsData = [
 
   {
     title: "Datara",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+    // description:
+    //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
     images: [
       {
         src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714319/_Datara__nzk2mq.jpg",
@@ -320,8 +320,8 @@ const sectionsData = [
   },
   {
     title: "Fragments of a Burning Alphabet",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+    // description:
+    //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
     images: [
       {
         src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714331/Fragments_of_a_Burning_Alphabet_btzogg.jpg",
@@ -331,8 +331,8 @@ const sectionsData = [
   },
   {
     title: "Sister Dora 2000",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+    // description:
+    //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
     images: [
       {
         src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1753042574/Sister_Dora_2000_bjwipe.jpg",
