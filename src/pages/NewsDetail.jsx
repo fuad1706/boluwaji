@@ -1,8 +1,31 @@
 import React, { useEffect, useState } from "react";
-import { useParams, useNavigate, Link } from "react-router-dom";
+import { useParams, useNavigate } from "react-router-dom";
 import { Calendar, User, ArrowLeft, Share2 } from "lucide-react";
 import { newsData } from "../lib/newsData";
 import NewsSidebar from "../components/NewsSidebar";
+
+// ✅ ShareButton component
+const ShareButton = ({ id }) => {
+  const handleCopy = () => {
+    const link = `https://yourdomain.com/news/${id}`; // Replace with your real domain
+    navigator.clipboard
+      .writeText(link)
+      .then(() => {
+        alert("Link copied to clipboard!");
+      })
+      .catch((err) => console.error("Copy failed", err));
+  };
+
+  return (
+    <button
+      onClick={handleCopy}
+      className="flex items-center text-gray-500 hover:text-yellow-500 transition-colors"
+    >
+      <Share2 size={18} />
+      <span className="ml-2 text-sm hidden md:inline">Share</span>
+    </button>
+  );
+};
 
 const NewsDetail = () => {
   const { id } = useParams();
@@ -12,25 +35,20 @@ const NewsDetail = () => {
 
   useEffect(() => {
     if (id) {
-      // Find the news article by ID
       const newsId = parseInt(id);
       const foundNews = newsData.find((item) => item.id === newsId);
 
       if (foundNews) {
         setNews(foundNews);
 
-        // Get related news (excluding current news)
         const related = newsData
           .filter((item) => item.id !== newsId)
-          .sort(() => 0.5 - Math.random()) // Randomly shuffle
-          .slice(0, 2); // Get top 2
+          .sort(() => 0.5 - Math.random())
+          .slice(0, 2);
 
         setRelatedNews(related);
-
-        // Scroll to top when loading a new article
         window.scrollTo(0, 0);
       } else {
-        // If news not found, redirect to news list
         navigate("/news");
       }
     }
@@ -56,7 +74,7 @@ const NewsDetail = () => {
       </button>
 
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
-        {/* Main content - 2/3 width on large screens */}
+        {/* Main content */}
         <div className="lg:col-span-2">
           {/* News header */}
           <div className="mb-8">
@@ -73,11 +91,8 @@ const NewsDetail = () => {
                 </span>
               </div>
 
-              {/* Share button */}
-              <button className="flex items-center text-gray-500 hover:text-yellow-500 transition-colors">
-                <Share2 size={18} />
-                <span className="ml-2 text-sm hidden md:inline">Share</span>
-              </button>
+              {/* ✅ Share Button */}
+              <ShareButton id={news.id} />
             </div>
           </div>
 
@@ -93,8 +108,6 @@ const NewsDetail = () => {
           {/* News content */}
           <div className="prose max-w-none mb-16">
             <p className="text-lg mb-4">{news.excerpt}</p>
-
-            {/* Display the news content - split paragraphs on line breaks */}
             {news.content
               .split("\n")
               .filter((para) => para.trim() !== "")
@@ -138,7 +151,7 @@ const NewsDetail = () => {
           )}
         </div>
 
-        {/* Sidebar - 1/3 width on large screens */}
+        {/* Sidebar */}
         <div className="lg:col-span-1">
           <NewsSidebar />
         </div>
