@@ -99,20 +99,20 @@ const Header = () => {
         </div>
         <div className="flex space-x-4 items-center">
           <Link
-            to="/About"
+            to="/about"
             className="relative no-underline after:content-[''] after:absolute after:w-0 after:h-0.5 after:bottom-0 after:left-0 after:bg-current after:transition-all after:duration-300 hover:after:w-full text-sm md:text-base"
           >
             About
           </Link>
 
           <Link
-            to="/Visualart"
+            to="/visualart"
             className="relative no-underline after:content-[''] after:absolute after:w-0 after:h-0.5 after:bottom-0 after:left-0 after:bg-current after:transition-all after:duration-300 hover:after:w-full text-sm md:text-base"
           >
             Visual Art
           </Link>
           <Link
-            to="/LunaLedger"
+            to="/lunaLedger"
             className="relative no-underline after:content-[''] after:absolute after:w-0 after:h-0.5 after:bottom-0 after:left-0 after:bg-current after:transition-all after:duration-300 hover:after:w-full text-sm md:text-base"
           >
             Luna Ledger
