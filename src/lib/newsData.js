@@ -157,8 +157,6 @@ export const newsData = [
     content: `
       Boluwaji Apanisile is a visionary creative entrepreneur passionate about storytelling through visual media.
 
-Visual storyteller, Boluwaji Apanisile has been honored with the Most Creative Photographer award at the recently concluded ACE Awards in the UK.
-
 The creative industry in Nigeria continues to evolve, with talented individuals like Boluwaji Apanisile leading the charge through innovation and exceptional storytelling techniques.
 
 At the heart of this transformation is a commitment to authentic narratives that capture the essence of Nigerian culture and experiences. Through photography, visual media, and strategic creative direction, Apanisile has managed to create a distinctive visual language that resonates with audiences worldwide.
@@ -184,7 +182,6 @@ As the industry continues to evolve, many are watching to see how these creative
     image:
       "https://res.cloudinary.com/dlzna5jba/image/upload/v1747049471/news/1747049467592-b.png",
     content: `
-      Boluwaji Apanisile is a visionary creative entrepreneur passionate about storytelling through visual media.
 
 Boluwaji Apanisile is a visionary creative entrepreneur passionate about storytelling through visual media.
 
@@ -231,9 +228,9 @@ For Nakestudios, the focus remains on pushing the boundaries of visual storytell
     image:
       "https://res.cloudinary.com/dlzna5jba/image/upload/v1747222430/news/1747222413347-news1img.jpg",
     content: `
-      NAKESTUDIOS held its inaugural iCre8 conference, recently, with the theme: “Exploring the transformative power of creativity in shaping the future of industries.”
+      
 
-NAKESTUDIOS held its inaugural iCre8 conference, recently, with the theme: “Exploring the transformative power of creativity in shaping the future of industries.” The conference had industry experts share major insights into the creative industries, its role in the society and how viable means of livelihood can be achieved.
+The conference had industry experts share major insights into the creative industries, its role in the society and how viable means of livelihood can be achieved.
 
 Seasoned professionals from photography, public relations, finance, tech, digital arts and events all graced the occasion offering insights into their creative process, experiences and ideas. Opening the conference, the convener of iCre8 conference, Boluwaji Apanisile, gave a welcome address, which was immediately followed by a keynote speech by Jide Benson, a prolific public relations expert. He quickened the hearts and ears of the attendees with his charge which paved the way for the sessions to get running.
 
@@ -257,7 +254,6 @@ After a successful first session a break followed, which provided an avenue for 
     image:
       "https://res.cloudinary.com/dlzna5jba/image/upload/v1747486884/news/1747486884553-news3img.jpg",
     content: `
-      Nakestudios has just held its inaugural iCre8 conference themed, Exploring the transformative power of creativity in shaping the future of industries.
 
 Nakestudios has just held its inaugural iCre8 conference themed, Exploring the transformative power of creativity in shaping the future of industries.
 
@@ -301,7 +297,6 @@ Johnvents Industries limited, ERCAS Integrated Solutions Limited, Casper Technol
     image:
       "https://res.cloudinary.com/dlzna5jba/image/upload/v1747487395/news/1747487395615-news4img.jpg",
     content: `
-      NAKESTUDIOS held its inaugural iCre8 conference, recently, with the theme: “Exploring the transformative power of creativity in shaping the future of industries.”
 
 NAKESTUDIOS held its inaugural iCre8 conference, recently, with the theme: “Exploring the transformative power of creativity in shaping the future of industries.” The conference had industry experts share major insights into the creative industries, its role in the society and how viable means of livelihood can be achieved.
 
@@ -327,7 +322,6 @@ After a successful first session a break followed, which provided an avenue for 
     image:
       "https://res.cloudinary.com/dlzna5jba/image/upload/v1747510597/news/1747510596940-news5img.jpg",
     content: `
-     Nakestudios has just held its inaugural iCre8 conference themed, Exploring the transformative power of creativity in shaping the future of industries.
 
 Nakestudios has just held its inaugural iCre8 conference themed, Exploring the transformative power of creativity in shaping the future of industries.
 
