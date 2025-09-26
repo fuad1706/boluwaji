@@ -157,6 +157,8 @@ export const newsData = [
     content: `
       Boluwaji Apanisile is a visionary creative entrepreneur passionate about storytelling through visual media.
 
+Visual storyteller, Boluwaji Apanisile has been honored with the Most Creative Photographer award at the recently concluded ACE Awards in the UK.
+
 The creative industry in Nigeria continues to evolve, with talented individuals like Boluwaji Apanisile leading the charge through innovation and exceptional storytelling techniques.
 
 At the heart of this transformation is a commitment to authentic narratives that capture the essence of Nigerian culture and experiences. Through photography, visual media, and strategic creative direction, Apanisile has managed to create a distinctive visual language that resonates with audiences worldwide.
@@ -169,7 +171,7 @@ As the industry continues to evolve, many are watching to see how these creative
     `,
     // ✅ External newspaper link
     sourceUrl:
-      "https://www.vanguardngr.com/2024/08/nakestudios-to-host-icre8-conference-fostering-innovation-in-nigerias-creative-industry/",
+      "https://dailytimesng.com/boluwaji-apanisile-wins-most-creative-photographer-at-ace-awards-plans-big-for-2025/",
   },
   {
     id: 2,
@@ -241,7 +243,7 @@ The experiences and accomplishments of the panelists in the first session were i
 After a successful first session a break followed, which provided an avenue for networking as attendees met with peers, mentors, and industry experts.
     `,
     sourceUrl:
-      "https://tribuneonlineng.com/cre8-conference-unveils-viable-future-for-creative-industries/",
+      "https://guardian.ng/technology/icre8-conference-unveils-viable-future-for-creative-industries/",
   },
   {
     id: 4,
@@ -309,7 +311,7 @@ The experiences and accomplishments of the panelists in the first session were i
 After a successful first session a break followed, which provided an avenue for networking as attendees met with peers, mentors, and industry experts.
     `,
     sourceUrl:
-      "https://www.thisdaylive.com/index.php/2024/08/05/cre8-conference-to-discuss-the-opportunities-and-challenges-in-nigerias-creative-sector/",
+      "https://www.thisdaylive.com/index.php/2024/08/05/icre8-conference-to-discuss-the-opportunities-and-challenges-in-nigerias-creative-sector/",
   },
   {
     id: 6,
