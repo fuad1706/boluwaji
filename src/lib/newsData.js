@@ -155,7 +155,19 @@ export const newsData = [
     image:
       "https://res.cloudinary.com/dlzna5jba/image/upload/v1747050579/news/1747050576692-news2Img.jpg",
     content: `
-      The creative industry in Nigeria continues to evolve, with talented individuals like Boluwaji Apanisile leading the charge...
+      Boluwaji Apanisile is a visionary creative entrepreneur passionate about storytelling through visual media.
+
+Visual storyteller, Boluwaji Apanisile has been honored with the Most Creative Photographer award at the recently concluded ACE Awards in the UK.
+
+The creative industry in Nigeria continues to evolve, with talented individuals like Boluwaji Apanisile leading the charge through innovation and exceptional storytelling techniques.
+
+At the heart of this transformation is a commitment to authentic narratives that capture the essence of Nigerian culture and experiences. Through photography, visual media, and strategic creative direction, Apanisile has managed to create a distinctive visual language that resonates with audiences worldwide.
+
+The recognition at the ACE Awards is a testament to the growing global appreciation for Nigerian creative professionals who bring fresh perspectives to the international stage.
+
+"We're seeing a renaissance in Nigerian creative expression," noted industry observer Chike Okonkwo. "The combination of traditional cultural influences with contemporary visual techniques is creating something truly unique and powerful."
+
+As the industry continues to evolve, many are watching to see how these creative innovations will shape the future of visual storytelling not just in Nigeria, but across the African continent and beyond.
     `,
     // ✅ External newspaper link
     sourceUrl:
@@ -172,7 +184,39 @@ export const newsData = [
     image:
       "https://res.cloudinary.com/dlzna5jba/image/upload/v1747049471/news/1747049467592-b.png",
     content: `
-      Visual storyteller and creative entrepreneur Boluwaji Apanisile is pioneering new approaches...
+      Boluwaji Apanisile is a visionary creative entrepreneur passionate about storytelling through visual media.
+
+Boluwaji Apanisile is a visionary creative entrepreneur passionate about storytelling through visual media.
+
+Dedicated to elevating the creative industry, blending innovation with artistic expression to capture the essence of human experiences, he has gone ahead to push a drive for the deployment of creativity and harnessing its viable capabilities.
+
+His work spans visual art, photography, cinematography, and motion direction, where he continuously seeks to push the boundaries of what is possible in creativity.
+
+Apanisile believes that the Nigeria creative sector is not only an add-on to the nation’s economic structure but rather a vibrant and essential element that has a significant impact on both cultural identity and economic growth.
+
+He also points out that Nigerian creatives are gaining international acclaim, influencing global trends in visual art, music, fashion, and film which not only enhances Nigeria’s cultural diplomacy but also promotes national pride.
+
+Apanisile believes that the creative industry holds immense potential to impact the Nigerian economy by driving innovation, creating jobs, and promoting cultural exchange.
+
+He adds that “Nigeria is rich in talent, and by investing in the creative sector, we can harness this talent to not only generate revenue but also to position Nigeria as a global cultural hub
+
+. The industry can contribute to diversifying the economy, reducing dependence on traditional sectors, and fostering more inclusive economic growth.”
+
+One of the major challenges for creatives in Nigeria is the lack of infrastructure and support systems, the creative entrepreneur further emphasised.
+
+He pointed out that, many creatives struggle with access to funding, mentorship, and professional development opportunities. There is also the challenge of intellectual property protection, which hinders creatives from fully benefiting from their work. To tackle these issues, there needs to be a concerted effort from both the public and private sectors to build a supportive ecosystem—this includes better access to financial resources, legal protections, and platforms that enable creatives to showcase and monetise their work.”
+
+As Apanisile continues his mission of bolstering the creative industry in Nigeria, his company, NAKESTUDiOS held its first iCre8 conference last month.
+
+The conference was an immersive and engaging event that brought together creatives from diverse industries for a powerful and inspirational session. For the convener, the next steps for the icre8 conference involve building on the success of the first edition by expanding its reach and impact.
+
+He adds that, “We plan to introduce more interactive sessions, workshops, and collaboration opportunities that allow participants to not only learn but also apply what they’ve learned in real time.
+
+“Subsequent editions will focus on deepening the conversations around creativity and its role in economic development, with an emphasis on actionable insights and solutions. We aim to make icre8 a must-attend event for anyone in the creative industry, both locally and internationally.”
+
+Looking ahead, Boluwaji intends to explore new ways to blend creativity with impact. This could mean venturing into new forms of media, exploring tech-driven creative solutions, or even getting involved in initiatives that drive social change through art he explains.
+
+For Nakestudios, the focus remains on pushing the boundaries of visual storytelling while also expanding into new markets and mediums, saying “We are looking at collaborations that can bring fresh perspectives to our work and exploring opportunities in content creation, immersive experiences, and perhaps even education helping to nurture the next generation of creatives.”
     `,
     sourceUrl:
       "https://www.thisdaylive.com/index.php/2024/09/14/boluwaji-apanisile-redefining-nigerias-creative-industry-through-innovation-storytelling/?amp2",
@@ -187,7 +231,17 @@ export const newsData = [
     image:
       "https://res.cloudinary.com/dlzna5jba/image/upload/v1747222430/news/1747222413347-news1img.jpg",
     content: `
-      The inaugural iCre8 conference by NAKESTUDIOS has successfully concluded...
+      NAKESTUDIOS held its inaugural iCre8 conference, recently, with the theme: “Exploring the transformative power of creativity in shaping the future of industries.”
+
+NAKESTUDIOS held its inaugural iCre8 conference, recently, with the theme: “Exploring the transformative power of creativity in shaping the future of industries.” The conference had industry experts share major insights into the creative industries, its role in the society and how viable means of livelihood can be achieved.
+
+Seasoned professionals from photography, public relations, finance, tech, digital arts and events all graced the occasion offering insights into their creative process, experiences and ideas. Opening the conference, the convener of iCre8 conference, Boluwaji Apanisile, gave a welcome address, which was immediately followed by a keynote speech by Jide Benson, a prolific public relations expert. He quickened the hearts and ears of the attendees with his charge which paved the way for the sessions to get running.
+
+Apansile moderated the first session which had Iroko Adesola, Oluwaseun Adetifa, Tolu Olorundnero and Jide Benson give insights into personal branding, public relations, nurturing creative ideas and placing oneself on an evolving platform so as to meet the ever demanding industry.
+
+The experiences and accomplishments of the panelists in the first session were inspiring and educative as attendees got the needed fuel to pursue their creative passion with newfound zeal.
+
+After a successful first session a break followed, which provided an avenue for networking as attendees met with peers, mentors, and industry experts.
     `,
     sourceUrl:
       "https://tribuneonlineng.com/cre8-conference-unveils-viable-future-for-creative-industries/",
@@ -203,7 +257,35 @@ export const newsData = [
     image:
       "https://res.cloudinary.com/dlzna5jba/image/upload/v1747486884/news/1747486884553-news3img.jpg",
     content: `
-      Leading voices from across Nigeria's creative landscape gathered last week...
+      Nakestudios has just held its inaugural iCre8 conference themed, Exploring the transformative power of creativity in shaping the future of industries.
+
+Nakestudios has just held its inaugural iCre8 conference themed, Exploring the transformative power of creativity in shaping the future of industries.
+
+The conference was expository has it had industry experts share major insights into the creative industries, its role in the society and how viable means of livelihood can be achieved.
+
+Seasoned professionals from photography, public relations, finance, tech, digital arts and events all graced the occasion offering insights into their creative process, experiences and ideas.
+
+Opening the conference, Boluwaji Apanisile, the convener of iCre8 conference gave a welcome address which was immediately followed by a keynote speech by Jide Benson, a prolific public relations expert and a Jack of a few trades.
+
+He quickened the hearts and ears of the attendees with his charge which paved way for the sessions to get running.
+
+Apansile moderated the first session which had Iroko Adesola, Oluwaseun Adetifa, Tolu Olorundnero and Jide Benson give insights into personal branding, public relations, nurturing creative ideas and placing oneself on an evolving platform so as to meet the ever demanding industry.
+
+The experiences and accomplishments of the panelists in the first session was rather inspiring and educative as attendees got the needed fuel to pursue their creative passion with newfound zeal.
+
+After a successful first session a break followed which provided an avenue for networking as attendees met with peers, mentors, and industry experts.
+
+The second session moderated by Apanisile took place shortly after and it featured experts who shed lights on tech, finance and digital arts.
+
+Johnson Owoeye, Gbemiga Agbedejobi and Tunji Ekeade were the panelist in this session as they shared detailed insights on the role of technology, finance and digital arts in the execution of creative ideas.
+
+Owoeye conversations highlighted how integral technology has become in running today’s business explaining how it can get creatives to work efficiently, effectively and achieve deliverables in record time.
+
+Agbedejobi discussed the importance of finance offering insights on sourcing funds and strategical deployment in achieving tangible results.
+
+It’s noteworthy that the iCre8 inaugural conference was a resounding success leaving attendees with a wealth of knowledge and the motivation to pursue their creative endeavors.
+
+Johnvents Industries limited, ERCAS Integrated Solutions Limited, Casper Technologies limited and KGDN Technologies Ltd were the sponsors of the conference with partnerships from Daza Events, CAST PR, Blackdrum TV, Irock Event Securities, Absolute Keepsakes and a few others.
     `,
     sourceUrl:
       "https://dailytimesng.com/experts-converge-at-the-inaugural-icre8-conference-discussing-the-future-of-creativity/",
@@ -219,7 +301,17 @@ export const newsData = [
     image:
       "https://res.cloudinary.com/dlzna5jba/image/upload/v1747487395/news/1747487395615-news4img.jpg",
     content: `
-      The upcoming iCre8 Conference, scheduled for later this month, is set to address both the enormous potential and significant challenges...
+      NAKESTUDIOS held its inaugural iCre8 conference, recently, with the theme: “Exploring the transformative power of creativity in shaping the future of industries.”
+
+NAKESTUDIOS held its inaugural iCre8 conference, recently, with the theme: “Exploring the transformative power of creativity in shaping the future of industries.” The conference had industry experts share major insights into the creative industries, its role in the society and how viable means of livelihood can be achieved.
+
+Seasoned professionals from photography, public relations, finance, tech, digital arts and events all graced the occasion offering insights into their creative process, experiences and ideas. Opening the conference, the convener of iCre8 conference, Boluwaji Apanisile, gave a welcome address, which was immediately followed by a keynote speech by Jide Benson, a prolific public relations expert. He quickened the hearts and ears of the attendees with his charge which paved the way for the sessions to get running.
+
+Apansile moderated the first session which had Iroko Adesola, Oluwaseun Adetifa, Tolu Olorundnero and Jide Benson give insights into personal branding, public relations, nurturing creative ideas and placing oneself on an evolving platform so as to meet the ever demanding industry.
+
+The experiences and accomplishments of the panelists in the first session were inspiring and educative as attendees got the needed fuel to pursue their creative passion with newfound zeal.
+
+After a successful first session a break followed, which provided an avenue for networking as attendees met with peers, mentors, and industry experts.
     `,
     sourceUrl:
       "https://www.thisdaylive.com/index.php/2024/08/05/cre8-conference-to-discuss-the-opportunities-and-challenges-in-nigerias-creative-sector/",
@@ -235,7 +327,35 @@ export const newsData = [
     image:
       "https://res.cloudinary.com/dlzna5jba/image/upload/v1747510597/news/1747510596940-news5img.jpg",
     content: `
-      NAKESTUDiOS has announced plans to host the first-ever iCre8 conference...
+     Nakestudios has just held its inaugural iCre8 conference themed, Exploring the transformative power of creativity in shaping the future of industries.
+
+Nakestudios has just held its inaugural iCre8 conference themed, Exploring the transformative power of creativity in shaping the future of industries.
+
+The conference was expository has it had industry experts share major insights into the creative industries, its role in the society and how viable means of livelihood can be achieved.
+
+Seasoned professionals from photography, public relations, finance, tech, digital arts and events all graced the occasion offering insights into their creative process, experiences and ideas.
+
+Opening the conference, Boluwaji Apanisile, the convener of iCre8 conference gave a welcome address which was immediately followed by a keynote speech by Jide Benson, a prolific public relations expert and a Jack of a few trades.
+
+He quickened the hearts and ears of the attendees with his charge which paved way for the sessions to get running.
+
+Apansile moderated the first session which had Iroko Adesola, Oluwaseun Adetifa, Tolu Olorundnero and Jide Benson give insights into personal branding, public relations, nurturing creative ideas and placing oneself on an evolving platform so as to meet the ever demanding industry.
+
+The experiences and accomplishments of the panelists in the first session was rather inspiring and educative as attendees got the needed fuel to pursue their creative passion with newfound zeal.
+
+After a successful first session a break followed which provided an avenue for networking as attendees met with peers, mentors, and industry experts.
+
+The second session moderated by Apanisile took place shortly after and it featured experts who shed lights on tech, finance and digital arts.
+
+Johnson Owoeye, Gbemiga Agbedejobi and Tunji Ekeade were the panelist in this session as they shared detailed insights on the role of technology, finance and digital arts in the execution of creative ideas.
+
+Owoeye conversations highlighted how integral technology has become in running today’s business explaining how it can get creatives to work efficiently, effectively and achieve deliverables in record time.
+
+Agbedejobi discussed the importance of finance offering insights on sourcing funds and strategical deployment in achieving tangible results.
+
+It’s noteworthy that the iCre8 inaugural conference was a resounding success leaving attendees with a wealth of knowledge and the motivation to pursue their creative endeavors.
+
+Johnvents Industries limited, ERCAS Integrated Solutions Limited, Casper Technologies limited and KGDN Technologies Ltd were the sponsors of the conference with partnerships from Daza Events, CAST PR, Blackdrum TV, Irock Event Securities, Absolute Keepsakes and a few others.
     `,
     sourceUrl:
       "https://www.vanguardngr.com/2024/08/nakestudios-to-host-icre8-conference-fostering-innovation-in-nigerias-creative-industry/",
