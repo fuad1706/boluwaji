@@ -356,4 +356,109 @@ Johnvents Industries limited, ERCAS Integrated Solutions Limited, Casper Technol
     sourceUrl:
       "https://www.vanguardngr.com/2024/08/nakestudios-to-host-icre8-conference-fostering-innovation-in-nigerias-creative-industry/",
   },
+  {
+    id: 7,
+    title: "A Dreamy World: Boluwaji Apanisile’s composite photography",
+    excerpt:
+      "The Boluwaji Apanisile reveals an interesting direction. His photography is a composite of different techniques across a wide range of artistic disciplines, including fine art, digital imaging, and portraiture. Apanisile is the kind of artist who thrives on eclecticism rather than on any singular artistic pivot. There is, in fact, a clear oneiric quality to the edgy composition of Apanisile’s photography, which we especially see in his most prominent works.",
+    date: "09 Oct, 2023",
+    author: "Chimezie Chika",
+    image:
+      "https://res.cloudinary.com/dlzna5jba/image/upload/v1767465960/image-1-860x1101_e7ogba.png",
+    content: `
+In Apanisile’s photography, matter, silence, and spiritual symbolism meet in compelling composites. While we do not often see some of these works attain authenticity, the promise they hold is also unmistakable. Apanisile had learnt to corral techniques from painting in his compositional style to great visual effect. Indeed, the direct visual appeal of these photos belies other things, weak or strong, which are at once evident within the limits of their frames. 
+
+Three photographs within Apanisile’s work hold special attention thus far. Namely, “Emerald Whispers”, “Opus of Dawn”, and “She Who Remains”. The overriding symbolism in these photos is that of implied presence. The countenance of the figures captured suggests the domination or importance of absence, the implication that what exists outside the frame is as important as what’s captured within the frame.
+
+Take “Emerald Whispers,” which captures a young woman looking away from the frame, staring into the darkness behind her, as if she had been called by someone or something outside the frame or was in a state of waiting. Perhaps there is something more in the way the body occupies space. The young woman’s braided hair, the manner of the turn (almost at a perfect 90 degrees), and how her far arm seems in the process of being raised, all these allow us to see her torso fully.
+
+In a photograph whose greenish tint connects it physically to 80s Polaroid, the same greenish tint enhances the intense sensuality of the image, especially around the young woman’s body, the prominent cleavage and bulge of her breasts clearly visible through her lace blouse. And suddenly, it all seems to be about something forbidden; a wrong, or an unspoken transgression.
+
+Apanisile speaks of “Emerald Whispers” in the language of hope. Hinting at bygone trails in the green haze, he also sees the green as verdant nature. The photo, however, thoroughly repudiates this. But if hope amidst gloom is of any currency to the photographer, then the photograph, “Opus of Dawn,” more precisely encapsulates that, unlike his claims on “Emerald Whispers”.
+    `,
+    sourceUrl:
+      "https://tribuneonlineng.com/a-dreamy-world-boluwaji-apanisiles-composite-photography/",
+  },
+  {
+    id: 8,
+    title: "Yoruba Heritage Art and Cultural Group Midland UK ",
+    excerpt:
+      "Special thanks to Boluwaji Apanisile, Creative Director of Nake Studios, for volunteering his skills as one of the photographers at Asa Wa Day 2025. We appreciate his creativity and contribution in capturing memorable moments from the celebration.",
+    date: "Asa Wa Day 2025",
+    author: "Yoruba Heritage Group Midland UK",
+    image:
+      "https://res.cloudinary.com/dlzna5jba/image/upload/v1767466908/yorubaHeritage_dcsvvs.jpg",
+    content: `
+Special thanks to Boluwaji Apanisile, Creative Director of Nake Studios, for volunteering his skills as one of the photographers at Asa Wa Day 2025. We appreciate his creativity and contribution in capturing memorable moments from the celebration.
+    `,
+    sourceUrl:
+      "https://www.yorubaheritagemidlands.uk/copy-of-photo-gallery-2-1",
+  },
+  {
+    id: 9,
+    title: "Spotlight on Apanisile’s Nebula Matriarch and Emerald Whispers",
+    excerpt:
+      "In an era defined by profound advancements in space exploration, driven by cutting-edge technology, Boluwaji Apanisile’s Nebula Matriarch feels especially timely. This work resonates deeply with viewers whose imaginations of distant outer space have been shaped and enriched by the breathtaking images transmitted back to Earth by Voyager 1 and 2.",
+    date: "04 Jun, 2023",
+    author: "Osa Mbonu-Amadi",
+    image:
+      "https://res.cloudinary.com/dlzna5jba/image/upload/v1767467341/Screenshot_2026-01-03_200843_rkybw3.png",
+    content: `
+    In Nebula Matriarch, Boluwaji Apanisile presents a striking fusion of humanity and the cosmos, offering a visual meditation on empowerment and cosmic origins. At the heart of the frame stands a Black woman, her features softly illuminated yet shadowed, her eyes gently closed in introspective calm. Far from being a mere portrait, she emerges as a celestial sovereign whose essence merges seamlessly with the swirling nebulous forms that emanate from her silhouette.
+
+This image transcends the personal, elevating the subject to the status of a universal matriarch—an archetype embodying strength, creation, and timeless wisdom. By anchoring her presence within the vast, star-strewn expanse of a nebula, the photograph suggests that femininity is inextricably linked to the cosmic scale of existence—an eternal wellspring of life and mystery.
+
+The luminous nebula that cocoon her figure is more than just an atmospheric backdrop; it is a visual metaphor for her inner world. It speaks of love, memory, pain, and resilience woven into the fabric of universal infinity. Through this synthesis of human and cosmic elements, Apanisile invites viewers to recognise a shared spiritual lineage and the profound depths contained within one being—an infinite universe reflected in a single soul.
+    `,
+    sourceUrl:
+      "https://www.vanguardngr.com/2023/06/spotlight-on-apanisiles-nebula-matriarch-and-emerald-whispers/",
+  },
+  {
+    id: 10,
+    title: "Nigerian artists in the diaspora redefining global landscape",
+    excerpt:
+      "Nigerian artists in the Diaspora have profoundly shaped global arts and literature by infusing Nigerian cultural perspectives with unique, compelling narratives. These creatives, ranging from novelists, playwrights, poets, visual artists to musicians, have garnered prestigious honors and international acclaim. This  inaugural editions explore some of the award-winning Nigerian artists in the diaspora and their significant contributions to the arts.",
+    date: "09 Oct, 2023",
+    author: "Osa Mbonu-Amadi & Benjamin Njoku",
+    image:
+      "https://res.cloudinary.com/dlzna5jba/image/upload/v1767469369/Screenshot_2026-01-03_204233_exo821.png",
+    content: `
+Kikelomo Solomon-Ayeni, simply known as Kikelomo, is a Nigerian visual artist based in the United Kingdom.
+
+“My art is visual art-photography. A large body of my work is niched around children, maternity and family. My goal is to promote child and women protection, mitigate child and gender based violence and to also improve family bond,” She told Vanguard.
+
+“Also, I just started an organisation in the UK to help art creators get international visibility for their work especially people from African or minority community.
+
+Kikelomo’s most recent award is a special recognition in visual art-photography by Eko Heritage Award in July 2025. She has had an Honourable Mention for her work, African Preggy Ready to Party (9). “This is a series but the 9th image got the mention by Blue Koi Gallery USA in March 2025,” Presently, Kikelomo has a nomination from African Fashion Award for “African Iconic fine art photographer of the year” on her African Preggy Ready to Party series. On the nomination that will unveil in November, Kikelomo told Vanguard: “I hope to win.”
+
+Describing her children art, Kikelomo said: “Here, every stroke of the brush and every click of the camera captures the essence of childhood magic. As a visual artist and photographer deeply passionate about child protection, I strive to immortalise the innocence, joy, and wonder of childhood through my creations.
+
+“In my artwork, you’ll find timeless scenes and heartfelt moments that celebrate the pure joy of being a child. In each piece, I aim to evoke nostalgia, spark imagination, and remind viewers of the importance of nurturing and protecting the precious souls of our youngest generation.
+    `,
+    sourceUrl:
+      "https://tribuneonlineng.com/a-dreamy-world-boluwaji-apanisiles-composite-photography/",
+  },
+  {
+    id: 11,
+    title: "Nigerian artists in the diaspora redefining global landscape",
+    excerpt: "lorem",
+    date: "09 Oct, 2023",
+    author: "Paul Waller LRPS",
+    image:
+      "https://res.cloudinary.com/dlzna5jba/image/upload/v1767470206/Screenshot_2026-01-03_205628_erdf2g.png",
+    content: `
+Kikelomo Solomon-Ayeni, simply known as Kikelomo, is a Nigerian visual artist based in the United Kingdom.
+
+“My art is visual art-photography. A large body of my work is niched around children, maternity and family. My goal is to promote child and women protection, mitigate child and gender based violence and to also improve family bond,” She told Vanguard.
+
+“Also, I just started an organisation in the UK to help art creators get international visibility for their work especially people from African or minority community.
+
+Kikelomo’s most recent award is a special recognition in visual art-photography by Eko Heritage Award in July 2025. She has had an Honourable Mention for her work, African Preggy Ready to Party (9). “This is a series but the 9th image got the mention by Blue Koi Gallery USA in March 2025,” Presently, Kikelomo has a nomination from African Fashion Award for “African Iconic fine art photographer of the year” on her African Preggy Ready to Party series. On the nomination that will unveil in November, Kikelomo told Vanguard: “I hope to win.”
+
+Describing her children art, Kikelomo said: “Here, every stroke of the brush and every click of the camera captures the essence of childhood magic. As a visual artist and photographer deeply passionate about child protection, I strive to immortalise the innocence, joy, and wonder of childhood through my creations.
+
+“In my artwork, you’ll find timeless scenes and heartfelt moments that celebrate the pure joy of being a child. In each piece, I aim to evoke nostalgia, spark imagination, and remind viewers of the importance of nurturing and protecting the precious souls of our youngest generation.
+    `,
+    sourceUrl: "https://rps.org/groups/creative-eye/member-websites/",
+  },
 ];
