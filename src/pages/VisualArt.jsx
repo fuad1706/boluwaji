@@ -101,21 +101,17 @@ const sectionsData = [
     ],
   },
   {
-    title: "The Spectrum of Silence",
+    title: "The People's Palace",
     // description:
     //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
     images: [
       {
-        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714153/_The_Spectrum_of_Silence__AB_fngedu.jpg",
-        title: "The Spectrum of Silence AB",
+        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1767254667/The_People_s_Palace_ubfg8z.jpg",
+        title: "The_People_s_Palace_A",
       },
       {
-        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714149/_The_Spectrum_of_Silence__AO_msgzvx.jpg",
-        title: "The Spectrum of Silence AO",
-      },
-      {
-        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714148/_The_Spectrum_of_Silence__AC_hq3osd.jpg",
-        title: "The Spectrum of Silence AC",
+        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1767255064/Screenshot_2026-01-01_091027_lid4dc.png",
+        title: "The_People_s_Palace_B",
       },
     ],
   },
@@ -197,13 +193,13 @@ const sectionsData = [
   },
 
   {
-    title: "Face of Flames",
+    title: "The Spirit of Skin",
     // description:
     //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
     images: [
       {
-        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1753042570/Face_of_flame_bub9hz.jpg",
-        title: "Face of flame",
+        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1767254663/The_Spirit_of_Skin_qiopgo.jpg",
+        title: "The Spirit Skin",
       },
     ],
   },
@@ -266,13 +262,13 @@ const sectionsData = [
   },
 
   {
-    title: "The Stripe of Unit",
+    title: "Nebula Matriarch",
     // description:
     //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
     images: [
       {
-        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714153/_Stripes_of_Unit__vnxie5.jpg",
-        title: "Stripe of Unit",
+        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1767254662/Nebula_Matriarch_fbfj4b.jpg",
+        title: "Nebula Matriarch",
       },
     ],
   },
@@ -337,6 +333,28 @@ const sectionsData = [
       {
         src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1753042574/Sister_Dora_2000_bjwipe.jpg",
         title: "Sister Dora 2000",
+      },
+    ],
+  },
+  {
+    title: "she who remains",
+    // description:
+    //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+    images: [
+      {
+        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1767254663/she_who_remains_nxiw8a.jpg",
+        title: "she who remain",
+      },
+    ],
+  },
+  {
+    title: "Mother of Many Wounds",
+    // description:
+    //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+    images: [
+      {
+        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1767254678/Mother_of_Many_Wounds_o2fbph.jpg",
+        title: "Mother of Many Wounds",
       },
     ],
   },

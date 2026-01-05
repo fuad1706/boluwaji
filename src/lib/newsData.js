@@ -459,6 +459,7 @@ Describing her children art, Kikelomo said: “Here, every stroke of the brush a
 
 “In my artwork, you’ll find timeless scenes and heartfelt moments that celebrate the pure joy of being a child. In each piece, I aim to evoke nostalgia, spark imagination, and remind viewers of the importance of nurturing and protecting the precious souls of our youngest generation.
     `,
-    sourceUrl: "https://rps.org/groups/creative-eye/member-websites/",
+    sourceUrl:
+      "https://www.vanguardngr.com/2025/08/nigerian-artists-in-the-diaspora-redefining-global-landscape/amp/",
   },
 ];
