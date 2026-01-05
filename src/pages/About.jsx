@@ -79,8 +79,6 @@ const About = () => {
                 My creativity is built around the universe, creatures, everyday
                 life, and cultural identity.
               </span>
-              I am particular in portraits, spaces, and moments that feel honest
-              and grounded, yet still carry a sense of depth and meaning.
             </p>
             <p className="mt-5">
               <span className="font-medium text-white">
@@ -213,7 +211,7 @@ const About = () => {
                 to connect emerging and established talent across industries and
                 cultures. The inaugural 2024 edition in Nigeria explored:
               </span>
-              <span className="block mt-3 text-red-500 italic font-semibold">
+              <span className="block mt-3 text-black italic font-bold">
                 “The Transformative Power of Creativity in Shaping the Future of
                 Industries”
               </span>
