@@ -4,13 +4,13 @@ import { Link } from "react-router-dom";
 const Header = () => {
   return (
     <nav className="py-3 items-center justify-center shadow-[0_1px_3px_rgba(0,0,0,0.06)] z-50 bg-[#EAEFFF] fixed md:relative w-full">
-      <div className="flex justify-between items-center px-6 md:px-20">
+      <div className="flex justify-between items-center px-4 md:px-20">
         <div>
           <a href="#">
             <img
               src="/images/bolu_sign.png"
               alt="logo"
-              className="h-14 sm:h-8"
+              className="h-10 md:h-15"
             />
           </a>
         </div>
