@@ -52,43 +52,43 @@ const sectionsData = [
     ],
   },
   {
-    title: "Spectral Sojourn",
+    title: "She Who Remains",
     // description:
     //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
     images: [
       {
         src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714185/Spectral_Sojourn___oklnde.png",
-        title: "Spectral Sojourn",
+        title: "She Who Remains",
       },
     ],
   },
-  {
-    title: "Alice the Princess of the West",
-    // description:
-    //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
-    images: [
-      {
-        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714181/Alice_the_Princess_of_the_West_XXX_nptdfr.jpg",
-        title: "Alice the Princess of the West XXX",
-      },
-      {
-        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714174/Alice_the_Princess_of_the_West_XYZ_krpnvb.jpg",
-        title: "Alice the Princess of the West XYZ",
-      },
-      {
-        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714316/_Alice__The_princess_of_the_west_tavscn.jpg",
-        title: "Alice the Princess of the West",
-      },
-      {
-        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714171/Alice_the_Princess_of_the_West_XXO_sbfndn.jpg",
-        title: "Alice the Princess of the West XXO",
-      },
-      {
-        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714169/Alice_the_Princess_of_the_West_XOX_yb96vf.jpg",
-        title: "Alice the Princess of the West XOX",
-      },
-    ],
-  },
+  // {
+  //   title: "Alice the Princess of the West",
+  //   // description:
+  //   //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+  //   images: [
+  //     {
+  //       src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714181/Alice_the_Princess_of_the_West_XXX_nptdfr.jpg",
+  //       title: "Alice the Princess of the West XXX",
+  //     },
+  //     {
+  //       src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714174/Alice_the_Princess_of_the_West_XYZ_krpnvb.jpg",
+  //       title: "Alice the Princess of the West XYZ",
+  //     },
+  //     {
+  //       src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714316/_Alice__The_princess_of_the_west_tavscn.jpg",
+  //       title: "Alice the Princess of the West",
+  //     },
+  //     {
+  //       src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714171/Alice_the_Princess_of_the_West_XXO_sbfndn.jpg",
+  //       title: "Alice the Princess of the West XXO",
+  //     },
+  //     {
+  //       src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714169/Alice_the_Princess_of_the_West_XOX_yb96vf.jpg",
+  //       title: "Alice the Princess of the West XOX",
+  //     },
+  //   ],
+  // },
   {
     title: "The Indigo Testament",
     // description:
@@ -115,21 +115,21 @@ const sectionsData = [
       },
     ],
   },
-  {
-    title: "A Room Made of Her",
-    // description:
-    //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
-    images: [
-      {
-        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714183/A_Room_Made_of_Her_AX_bbru5t.jpg",
-        title: "A Room Made of Her AX",
-      },
-      {
-        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714164/A_Room_Made_of_Her_AY_q3zhao.jpg",
-        title: "A Room Made of Her AY",
-      },
-    ],
-  },
+  // {
+  //   title: "A Room Made of Her",
+  //   // description:
+  //   //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+  //   images: [
+  //     {
+  //       src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714183/A_Room_Made_of_Her_AX_bbru5t.jpg",
+  //       title: "A Room Made of Her AX",
+  //     },
+  //     {
+  //       src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714164/A_Room_Made_of_Her_AY_q3zhao.jpg",
+  //       title: "A Room Made of Her AY",
+  //     },
+  //   ],
+  // },
   {
     title: "Oculon",
     // description:
@@ -150,35 +150,35 @@ const sectionsData = [
         src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714189/Floating_Colossus_XYZ_hoa8wk.jpg",
         title: "Floating Colossus XYZ",
       },
-      {
-        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714182/Floating_Colossus_XYX_tch3pl.jpg",
-        title: "Floating Colossus XYX",
-      },
-      {
-        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714178/Floating_Colossus_XXX_s0zwmn.jpg",
-        title: "Floating Colossus XXX",
-      },
+      // {
+      //   src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714182/Floating_Colossus_XYX_tch3pl.jpg",
+      //   title: "Floating Colossus XYX",
+      // },
+      // {
+      //   src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714178/Floating_Colossus_XXX_s0zwmn.jpg",
+      //   title: "Floating Colossus XXX",
+      // },
     ],
   },
-  {
-    title: "Tuareg Mbani",
-    // description:
-    //   "An exploration of identity and resilience through cultural expression.",
-    images: [
-      {
-        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714169/_Tuareg_Mbani__XYZ_op1i35.jpg",
-        title: "Tuareg Mbani XYZ",
-      },
-      {
-        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714167/_Tuareg_Mbani__XOX_q5dnut.jpg",
-        title: "Tuareg Mbani XOX",
-      },
-      {
-        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714153/_Tuareg_Mbani__XYX_nnerco.jpg",
-        title: "Tuareg Mbani XYX",
-      },
-    ],
-  },
+  // {
+  //   title: "Tuareg Mbani",
+  //   // description:
+  //   //   "An exploration of identity and resilience through cultural expression.",
+  //   images: [
+  //     {
+  //       src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714169/_Tuareg_Mbani__XYZ_op1i35.jpg",
+  //       title: "Tuareg Mbani XYZ",
+  //     },
+  //     {
+  //       src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714167/_Tuareg_Mbani__XOX_q5dnut.jpg",
+  //       title: "Tuareg Mbani XOX",
+  //     },
+  //     {
+  //       src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714153/_Tuareg_Mbani__XYX_nnerco.jpg",
+  //       title: "Tuareg Mbani XYX",
+  //     },
+  //   ],
+  // },
 
   {
     title: "St. Matthew's Through the Haze of Time",
@@ -249,17 +249,17 @@ const sectionsData = [
       },
     ],
   },
-  {
-    title: "Toby Carvery Twilight",
-    // description:
-    //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
-    images: [
-      {
-        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1753042572/Toby_Carvery_Twilight_covhyh.jpg",
-        title: "Toby Carvery Twilight",
-      },
-    ],
-  },
+  // {
+  //   title: "Toby Carvery Twilight",
+  //   // description:
+  //   //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+  //   images: [
+  //     {
+  //       src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1753042572/Toby_Carvery_Twilight_covhyh.jpg",
+  //       title: "Toby Carvery Twilight",
+  //     },
+  //   ],
+  // },
 
   {
     title: "Nebula Matriarch",
@@ -303,39 +303,39 @@ const sectionsData = [
     ],
   },
 
-  {
-    title: "Datara",
-    // description:
-    //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
-    images: [
-      {
-        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714319/_Datara__nzk2mq.jpg",
-        title: "Datara",
-      },
-    ],
-  },
-  {
-    title: "Fragments of a Burning Alphabet",
-    // description:
-    //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
-    images: [
-      {
-        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714331/Fragments_of_a_Burning_Alphabet_btzogg.jpg",
-        title: "Fragments of a Burning Alphabet",
-      },
-    ],
-  },
-  {
-    title: "Sister Dora 2000",
-    // description:
-    //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
-    images: [
-      {
-        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1753042574/Sister_Dora_2000_bjwipe.jpg",
-        title: "Sister Dora 2000",
-      },
-    ],
-  },
+  // {
+  //   title: "Datara",
+  //   // description:
+  //   //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+  //   images: [
+  //     {
+  //       src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714319/_Datara__nzk2mq.jpg",
+  //       title: "Datara",
+  //     },
+  //   ],
+  // },
+  // {
+  //   title: "Fragments of a Burning Alphabet",
+  //   // description:
+  //   //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+  //   images: [
+  //     {
+  //       src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1751714331/Fragments_of_a_Burning_Alphabet_btzogg.jpg",
+  //       title: "Fragments of a Burning Alphabet",
+  //     },
+  //   ],
+  // },
+  // {
+  //   title: "Sister Dora 2000",
+  //   // description:
+  //   //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+  //   images: [
+  //     {
+  //       src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1753042574/Sister_Dora_2000_bjwipe.jpg",
+  //       title: "Sister Dora 2000",
+  //     },
+  //   ],
+  // },
   {
     title: "she who remains",
     // description:

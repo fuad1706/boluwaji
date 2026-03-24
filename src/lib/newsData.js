@@ -146,33 +146,20 @@
 export const newsData = [
   {
     id: 1,
-    title:
-      "Boluwaji Apanisile Wins Most Creative Photographer at ACE Awards...",
+    title: "Yoruba Heritage Art and Cultural Group Midland UK ",
     excerpt:
-      "Visual storyteller, Boluwaji Apanisile has been honored with the Most Creative Photographer award at the recently concluded ACE Awards in the UK.",
-    date: "15 Dec, 2024",
-    author: "Ihesiulo Grace",
+      "Special thanks to Boluwaji Apanisile, Creative Director of Nake Studios, for volunteering his skills as one of the photographers at Asa Wa Day 2025. We appreciate his creativity and contribution in capturing memorable moments from the celebration.",
+    date: "Asa Wa Day 2025",
+    author: "Yoruba Heritage Group Midland UK",
     image:
-      "https://res.cloudinary.com/dlzna5jba/image/upload/v1747050579/news/1747050576692-news2Img.jpg",
+      "https://res.cloudinary.com/dlzna5jba/image/upload/v1767466908/yorubaHeritage_dcsvvs.jpg",
     content: `
-      Boluwaji Apanisile is a visionary creative entrepreneur passionate about storytelling through visual media.
-
-Visual storyteller, Boluwaji Apanisile has been honored with the Most Creative Photographer award at the recently concluded ACE Awards in the UK.
-
-The creative industry in Nigeria continues to evolve, with talented individuals like Boluwaji Apanisile leading the charge through innovation and exceptional storytelling techniques.
-
-At the heart of this transformation is a commitment to authentic narratives that capture the essence of Nigerian culture and experiences. Through photography, visual media, and strategic creative direction, Apanisile has managed to create a distinctive visual language that resonates with audiences worldwide.
-
-The recognition at the ACE Awards is a testament to the growing global appreciation for Nigerian creative professionals who bring fresh perspectives to the international stage.
-
-"We're seeing a renaissance in Nigerian creative expression," noted industry observer Chike Okonkwo. "The combination of traditional cultural influences with contemporary visual techniques is creating something truly unique and powerful."
-
-As the industry continues to evolve, many are watching to see how these creative innovations will shape the future of visual storytelling not just in Nigeria, but across the African continent and beyond.
+Special thanks to Boluwaji Apanisile, Creative Director of Nake Studios, for volunteering his skills as one of the photographers at Asa Wa Day 2025. We appreciate his creativity and contribution in capturing memorable moments from the celebration.
     `,
-    // ✅ External newspaper link
     sourceUrl:
-      "https://dailytimesng.com/boluwaji-apanisile-wins-most-creative-photographer-at-ace-awards-plans-big-for-2025/",
+      "https://www.yorubaheritagemidlands.uk/copy-of-photo-gallery-2-1",
   },
+
   {
     id: 2,
     title:
@@ -358,6 +345,35 @@ Johnvents Industries limited, ERCAS Integrated Solutions Limited, Casper Technol
   },
   {
     id: 7,
+    title:
+      "Boluwaji Apanisile Wins Most Creative Photographer at ACE Awards...",
+    excerpt:
+      "Visual storyteller, Boluwaji Apanisile has been honored with the Most Creative Photographer award at the recently concluded ACE Awards in the UK.",
+    date: "15 Dec, 2024",
+    author: "Ihesiulo Grace",
+    image:
+      "https://res.cloudinary.com/dlzna5jba/image/upload/v1747050579/news/1747050576692-news2Img.jpg",
+    content: `
+      Boluwaji Apanisile is a visionary creative entrepreneur passionate about storytelling through visual media.
+
+Visual storyteller, Boluwaji Apanisile has been honored with the Most Creative Photographer award at the recently concluded ACE Awards in the UK.
+
+The creative industry in Nigeria continues to evolve, with talented individuals like Boluwaji Apanisile leading the charge through innovation and exceptional storytelling techniques.
+
+At the heart of this transformation is a commitment to authentic narratives that capture the essence of Nigerian culture and experiences. Through photography, visual media, and strategic creative direction, Apanisile has managed to create a distinctive visual language that resonates with audiences worldwide.
+
+The recognition at the ACE Awards is a testament to the growing global appreciation for Nigerian creative professionals who bring fresh perspectives to the international stage.
+
+"We're seeing a renaissance in Nigerian creative expression," noted industry observer Chike Okonkwo. "The combination of traditional cultural influences with contemporary visual techniques is creating something truly unique and powerful."
+
+As the industry continues to evolve, many are watching to see how these creative innovations will shape the future of visual storytelling not just in Nigeria, but across the African continent and beyond.
+    `,
+    // ✅ External newspaper link
+    sourceUrl:
+      "https://dailytimesng.com/boluwaji-apanisile-wins-most-creative-photographer-at-ace-awards-plans-big-for-2025/",
+  },
+  {
+    id: 8,
     title: "A Dreamy World: Boluwaji Apanisile’s composite photography",
     excerpt:
       "The Boluwaji Apanisile reveals an interesting direction. His photography is a composite of different techniques across a wide range of artistic disciplines, including fine art, digital imaging, and portraiture. Apanisile is the kind of artist who thrives on eclecticism rather than on any singular artistic pivot. There is, in fact, a clear oneiric quality to the edgy composition of Apanisile’s photography, which we especially see in his most prominent works.",
@@ -379,21 +395,7 @@ Apanisile speaks of “Emerald Whispers” in the language of hope. Hinting at b
     sourceUrl:
       "https://tribuneonlineng.com/a-dreamy-world-boluwaji-apanisiles-composite-photography/",
   },
-  {
-    id: 8,
-    title: "Yoruba Heritage Art and Cultural Group Midland UK ",
-    excerpt:
-      "Special thanks to Boluwaji Apanisile, Creative Director of Nake Studios, for volunteering his skills as one of the photographers at Asa Wa Day 2025. We appreciate his creativity and contribution in capturing memorable moments from the celebration.",
-    date: "Asa Wa Day 2025",
-    author: "Yoruba Heritage Group Midland UK",
-    image:
-      "https://res.cloudinary.com/dlzna5jba/image/upload/v1767466908/yorubaHeritage_dcsvvs.jpg",
-    content: `
-Special thanks to Boluwaji Apanisile, Creative Director of Nake Studios, for volunteering his skills as one of the photographers at Asa Wa Day 2025. We appreciate his creativity and contribution in capturing memorable moments from the celebration.
-    `,
-    sourceUrl:
-      "https://www.yorubaheritagemidlands.uk/copy-of-photo-gallery-2-1",
-  },
+
   {
     id: 9,
     title: "Spotlight on Apanisile’s Nebula Matriarch and Emerald Whispers",
