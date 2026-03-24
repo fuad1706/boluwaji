@@ -239,9 +239,9 @@ const NewsDetail = () => {
       {/* Back button */}
       <button
         onClick={() => navigate(-1)}
-        className="flex items-center mb-8 text-gray-600 hover:text-yellow-500 transition-colors"
+        className="flex items-center mb-8 mt-10 text-gray-600 hover:text-yellow-500 transition-colors"
       >
-        <ArrowLeft size={20} className="mr-2" />
+        <ArrowLeft size={20} className="mr-2 " />
         Back to News
       </button>
 
