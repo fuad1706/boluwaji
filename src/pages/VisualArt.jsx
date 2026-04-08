@@ -358,6 +358,29 @@ const sectionsData = [
       },
     ],
   },
+
+  {
+    title: "The Sahel Gaze",
+    // description:
+    //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+    images: [
+      {
+        src: "https://res.cloudinary.com/dlzna5jba/image/upload/q_auto/f_auto/v1775670759/The_Sahel_Gaze_pam6cp.jpg",
+        title: "The Sahel Gaze",
+      },
+    ],
+  },
+  {
+    title: "Born Before the Mirror",
+    // description:
+    //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, in sunt magni vitae illo...",
+    images: [
+      {
+        src: "https://res.cloudinary.com/dlzna5jba/image/upload/v1775671631/Screenshot_2026-04-08_190613_nzswdr.png",
+        title: "Born Before the Mirror",
+      },
+    ],
+  },
 ];
 
 const VisualArtSection = ({ section, index }) => {
