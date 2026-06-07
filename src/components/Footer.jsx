@@ -122,8 +122,9 @@ const Footer = () => {
             <span className="text-red-600 ">♥</span>
             <span>
               <a
-                href="https://www.tiktok.com/@heart__1706?_t=ZM-8xkBClnuywQ&_r=1"
+                href="https://wa.me/2347085977737?text=Hello%20AF%20Creative%20Hubs"
                 target="_blank"
+                rel="noopener noreferrer"
                 className="underline"
               >
                 afcreativehubs
